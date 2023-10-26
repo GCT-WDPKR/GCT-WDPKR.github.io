@@ -1,11 +1,13 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /L'ENTREPRISE/
+title: "L'ENTREPRISE"
 header:
   image: /assets/images/forest.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Woodpecker Élagage EIRL étais crée en novembre 2023 ; fondateur Geraint TRÉMELO-THOMAS a fini son certificat de spécialisation à Fodé Ouest, Nantes, en décembre 2021, et puis a travaillé pour la prestigieuse entreprise Vert d'Horizon, Piriac-sur-Mer pendant un an et demi, ou il a formé l'ancien équipe dans les nouvelles techniques d'ascension et déplacement, nommé l'SRT.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Suite à un déménagement, a Quistinic, 56310, et par conséquent un au revoir a Vert d'Horizon, Geraint a décider a crée sa propre entreprise, Woodpecker Élagage. 
+
+Amoureux de la nature depuis son enfance, il a travaillé a coté de sa mère qui avait sa propre entreprise, 'Jayne Thomas Garden Design Limited', qui était primé de nombreuses médailles au concours national d'architecture d'extérieur en Angleterre. Sa carrière a évolué ; cuisinier... Eh oui, le petit Galois adore cuisiner et surtout manger ! Cinq ans des belles expériences autour du monde dans des pubs anglaises, un petit bistrot a Paris, une Italienne en Nouvelle Zélande. Mais pour vœu de retrouver le bonheur de travailler à l'extérieur et d'une vie plus harmonieuse avec sa famille, il retournerait dans la nature aux postes de : jardinier, paysagiste et puis il trouverait son travail de rêve... Arboriste Élagueur Grimpeur. 
