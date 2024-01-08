@@ -1,5 +1,5 @@
 ---
-permalink: /L'ENTREPRISE/
+permalink: /about/
 title: "L'ENTREPRISE"
 header:
   image: /assets/images/forest.jpg
