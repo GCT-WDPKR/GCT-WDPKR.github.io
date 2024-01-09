@@ -2,7 +2,7 @@
 permalink: /about/
 title: "L'ENTREPRISE"
 header:
-  image: /assets/images/forest.jpg
+  image: /assets/images/stock/unsplash-forest.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
