@@ -30,7 +30,7 @@ Amoureux de la nature depuis son enfance, Geraint a travaillé a coté de sa mè
 Geraint, a fini son certificat de spécialisation à Fodé Ouest, Nantes, en décembre 2021, et puis a travaillé pour la prestigieuse entreprise Vert d’Horizon, Piriac-sur-Mer pendant un an et demi.
 
 <!-- Standard image with no width modifier classes applied. -->
-<!-- {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %} -->
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg) -->
 
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
@@ -44,4 +44,4 @@ Aprés quelques mois travailler ensemble l’equipe se designe convaincu. Le pat
 Clique ici pour lire un article de Vert d’horizon dessus : [https://vertdhorizon.fr/gazette/formation-srt/](https://vertdhorizon.fr/gazette/formation-srt/) 
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Training day gallery." %}
