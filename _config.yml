@@ -81,18 +81,18 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/woodpecker.elagage"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:email@example.com"
+    - label: "Telephone"
+      icon: "fab fa-fw fa-phone"
+      url: "tel:7777777777"
 
 defaults:
   # _posts
