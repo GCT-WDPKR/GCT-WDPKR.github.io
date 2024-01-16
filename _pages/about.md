@@ -33,7 +33,7 @@ Geraint, a fini son certificat de spécialisation à Fodé Ouest, Nantes, en dé
 <!-- {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %} -->
 
 <!-- Image that fills page content container by adding the .full class with: -->
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}{% endraw %}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
 Le metier d’arboriste est relativement jeune ; les connaissance du vegetal, les techniques de grimpe et les materiels utilise evolue tout le temps. Geraint, issu d’une formation plus recent a eu pour objectif de convaincre sa nouvelle equipe de le efficacité de ces nouvelles techniques et les reformer ainsi de suite. 
 
@@ -41,7 +41,7 @@ Le metier d’arboriste est relativement jeune ; les connaissance du vegetal, le
 Aprés quelques mois travailler ensemble l’equipe se designe convaincu. Le patron de Vert d’Horizon, Samuel DURAND, ouvert d’esprit et attentif de ses employés, organise une journée de formation et une renouvellement de materielles pour l’integralite de son equipe. Ces fameuses techniques, nommé ‘Static Rope Technique, ou SRT’, permet une ascension plus ergonomique, moins fatigant pour le corp, et une grande porte ouverte de nombreuse techniques de deplacement dans l’arbre. 
 
 
-Clique ici pour lire un article de Vert d’horizon dessus : https://vertdhorizon.fr/gazette/formation-srt/ 
+Clique ici pour lire un article de Vert d’horizon dessus : [https://vertdhorizon.fr/gazette/formation-srt/](https://vertdhorizon.fr/gazette/formation-srt/) 
 
 
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
