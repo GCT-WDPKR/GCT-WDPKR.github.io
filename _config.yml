@@ -86,13 +86,13 @@ footer:
       url: "https://www.facebook.com/woodpecker.elagage"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/woodpecker_elagage"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:email@example.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wdpecker.elagage@gmail.com"
     - label: "Telephone"
-      icon: "fab fa-fw fa-phone"
-      url: "tel:7777777777"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:0626794773"
 
 defaults:
   # _posts
