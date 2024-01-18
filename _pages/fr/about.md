@@ -1,6 +1,8 @@
 ---
-permalink: /about/
 title: "L'ENTREPRISE"
+permalink: /l-entreprise
+lang: fr
+page_id: about
 header:
   image: /assets/images/stock/unsplash-forest.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -19,29 +21,17 @@ gallery:
     title: "Training Day Image 3"
 ---
 
-<!-- Woodpecker Élagage EIRL étais crée en novembre 2023 ; fondateur Geraint TRÉMELO-THOMAS a fini son certificat de spécialisation à Fodé Ouest, Nantes, en décembre 2021, et puis a travaillé pour la prestigieuse entreprise Vert d'Horizon, Piriac-sur-Mer pendant un an et demi, ou il a formé l'ancien équipe dans les nouvelles techniques d'ascension et déplacement, nommé l'SRT.
-
-Suite à un déménagement, a Quistinic, 56310, et par conséquent un au revoir a Vert d'Horizon, Geraint a décider a crée sa propre entreprise, Woodpecker Élagage. 
-
-Amoureux de la nature depuis son enfance, il a travaillé a coté de sa mère qui avait sa propre entreprise, 'Jayne Thomas Garden Design Limited', qui était primé de nombreuses médailles au concours national d'architecture d'extérieur en Angleterre. Sa carrière a évolué ; cuisinier... Eh oui, le petit Galois adore cuisiner et surtout manger ! Cinq ans des belles expériences autour du monde dans des pubs anglaises, un petit bistrot a Paris, une Italienne en Nouvelle Zélande. Mais pour vœu de retrouver le bonheur de travailler à l'extérieur et d'une vie plus harmonieuse avec sa famille, il retournerait dans la nature aux postes de : jardinier, paysagiste et puis il trouverait son travail de rêve... Arboriste Élagueur Grimpeur.  -->
-
 Amoureux de la nature depuis son enfance, Geraint a travaillé a coté de sa mère qui avait sa propre entreprise, ‘Jayne Thomas Garden Design Limited’, qui était primé de nombreuses médailles au concours national d’architecture d’extérieur en Angleterre. Sa carrière a évolué ; cuisinier… Eh oui, le petit Galois adore cuisiner et surtout manger ! Cinq ans des belles expériences autour du monde ; un pub anglaise, un petit bistrot a Paris, une Italienne en Nouvelle Zélande. Mais pour vœu de retrouver le bonheur de travailler à l’extérieur et d’une vie plus harmonieuse avec sa famille, il retournerait dans la nature aux postes de : jardinier, paysagiste, et puis il trouverait son travail de rêve… Arboriste Élagueur Grimpeur.
 
 Geraint, a fini son certificat de spécialisation à Fodé Ouest, Nantes, en décembre 2021, et puis a travaillé pour la prestigieuse entreprise Vert d’Horizon, Piriac-sur-Mer pendant un an et demi.
-
-<!-- Standard image with no width modifier classes applied. -->
-<!-- ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg) -->
 
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
 Le metier d’arboriste est relativement jeune ; les connaissance du vegetal, les techniques de grimpe et les materiels utilise evolue tout le temps. Geraint, issu d’une formation plus recent a eu pour objectif de convaincre sa nouvelle equipe de le efficacité de ces nouvelles techniques et les reformer ainsi de suite. 
 
-
 Aprés quelques mois travailler ensemble l’equipe se designe convaincu. Le patron de Vert d’Horizon, Samuel DURAND, ouvert d’esprit et attentif de ses employés, organise une journée de formation et une renouvellement de materielles pour l’integralite de son equipe. Ces fameuses techniques, nommé ‘Static Rope Technique, ou SRT’, permet une ascension plus ergonomique, moins fatigant pour le corp, et une grande porte ouverte de nombreuse techniques de deplacement dans l’arbre. 
 
-
 Clique ici pour lire un article de Vert d’horizon dessus : [https://vertdhorizon.fr/gazette/formation-srt/](https://vertdhorizon.fr/gazette/formation-srt/) 
-
 
 {% include gallery caption="Training day gallery." %}

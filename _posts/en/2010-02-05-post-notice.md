@@ -1,5 +1,6 @@
 ---
 title: "Post: Notice"
+lang: en
 categories:
   - Blog
 tags:

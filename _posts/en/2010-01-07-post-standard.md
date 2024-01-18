@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+lang: en
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
