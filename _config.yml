@@ -29,6 +29,7 @@ whitelist:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+repository: GCT-WDPKR/GCT-WDPKR.github.io
 
 ## Outputting
 permalink: /:categories/:title/
