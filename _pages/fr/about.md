@@ -1,5 +1,5 @@
 ---
-title: "L'ENTREPRISE"
+title: "L'Entreprise"
 permalink: /l-entreprise/
 lang: fr
 page_id: about
