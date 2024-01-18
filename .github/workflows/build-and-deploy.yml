@@ -1,4 +1,4 @@
-name: Build and deploy the Jekyll site
+name: Build and deploy to gh-pages
 
 on:
   push:
@@ -16,7 +16,7 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chown jekyll:jekyll /srv/jekyll && jekyll build --future"
-    - name: Deploy to gh-pages branch
+    - name: Deploy to gh-pages
       if: ${{ github.event_name == 'push' }}
       run: |
         sudo chown $( whoami ):$( whoami ) ${{ github.workspace }}/_site
