@@ -1,6 +1,6 @@
 ---
 title: "L'ENTREPRISE"
-permalink: /l-entreprise
+permalink: /l-entreprise/
 lang: fr
 page_id: about
 header:
