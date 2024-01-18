@@ -1,12 +1,7 @@
-# Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -14,21 +9,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Woodpecker Élagage
-logo: "/assets/images/logo-circle.png"
-email:
+logo: /assets/images/logo-circle.png
+email: wdpecker.elagage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
+
+## Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
@@ -37,7 +31,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
+## Exclude from processing
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
@@ -49,7 +43,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
+## Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -58,42 +52,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Geraint Thomas"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://gct-wdpkr.github.io/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/woodpecker.elagage"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/woodpecker_elagage"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:wdpecker.elagage@gmail.com"
-    - label: "Telephone"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:0626794773"
-
-footer:
-  links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/woodpecker.elagage"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/woodpecker_elagage"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:wdpecker.elagage@gmail.com"
-    - label: "Telephone"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:0626794773"
-
+## Misc. settings
 defaults:
   # _posts
   - scope:
@@ -120,3 +79,40 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Site customization
+author:
+  name: Geraint Thomas
+  avatar: /assets/images/bio-photo.jpg
+  bio: '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'
+  links:
+    - label: Website
+      icon: fas fa-fw fa-link
+      url: https://gct-wdpkr.github.io/
+    - label: Facebook
+      icon:"fab fa-fw fa-facebook
+      url: https://www.facebook.com/woodpecker.elagage
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/woodpecker_elagage
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:wdpecker.elagage@gmail.com
+    - label: Telephone
+      icon: fas fa-fw fa-phone
+      url: tel:0626794773
+
+footer:
+  links:
+    - label: Facebook
+      icon: fab fa-fw fa-facebook
+      url: https://www.facebook.com/woodpecker.elagage
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/woodpecker_elagage
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:wdpecker.elagage@gmail.com
+    - label: Telephone
+      icon: fas fa-fw fa-phone
+      url: tel:0626794773
