@@ -20,7 +20,7 @@
           {% for lang in site.languages %}
             {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
             <li class="masthead__menu-item">
-              <a class="{{ lang }}" lang="{{ page.lang }}" rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">{{ lang }}</a>
+              <a class="{{ lang }}" rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">{{ lang }}</a>
             </li>
           {% endfor %}
         </ul>
