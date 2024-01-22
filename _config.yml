@@ -109,26 +109,28 @@ tag_archive:
   path: /tags/
 
 # Site customization
-# author:
-#   name: Geraint Thomas
-#   avatar: /assets/images/bio-photo.jpg
-#   bio: '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'
-#   links:
-#     - label: Website
-#       icon: fas fa-fw fa-link
-#       url: https://gct-wdpkr.github.io/
-#     - label: Facebook
-#       icon: fab fa-fw fa-facebook
-#       url: https://www.facebook.com/woodpecker.elagage
-#     - label: Instagram
-#       icon: fab fa-fw fa-instagram
-#       url: https://www.instagram.com/woodpecker_elagage
-#     - label: Email
-#       icon: fas fa-fw fa-envelope
-#       url: mailto:wdpecker.elagage@gmail.com
-#     - label: Telephone
-#       icon: fas fa-fw fa-phone
-#       url: tel:0626794773
+author:
+  name: Geraint Thomas
+  avatar: /assets/images/bio-photo.jpg
+  bio:
+    en: '"Arborist Pruner Climber" certified. Creator, and founder of Woodpecker Élagage.'
+    fr: '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'
+  links:
+    - label: Website
+      icon: fas fa-fw fa-link
+      url: https://gct-wdpkr.github.io/
+    - label: Facebook
+      icon: fab fa-fw fa-facebook
+      url: https://www.facebook.com/woodpecker.elagage
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/woodpecker_elagage
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:wdpecker.elagage@gmail.com
+    - label: Telephone
+      icon: fas fa-fw fa-phone
+      url: tel:0626794773
 
 footer:
   links:
