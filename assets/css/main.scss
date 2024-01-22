@@ -10,12 +10,20 @@ search: false
 
 // Language Switch
 li.masthead__menu-item > a.en,
-li.masthead__menu-item > a.fr{
+li.masthead__menu-item > a.fr {
   text-transform: capitalize;
 }
 
+li.masthead__menu-item:nth-last-child(1) > a {
+  margin-right: 0.2rem;
+}
+
+li.masthead__menu-item:nth-last-child(2) > a {
+  margin-left: 0.2rem;
+}
+
 li.masthead__menu-item > a.en:lang(en),
-li.masthead__menu-item > a.fr:lang(fr){
+li.masthead__menu-item > a.fr:lang(fr) {
   font-weight: bold;
   pointer-events: none;
   text-decoration: underline;
