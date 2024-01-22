@@ -1,7 +1,6 @@
 ---
 title: "L'Entreprise"
 permalink: /l-entreprise/
-lang: fr
 page_id: about
 header:
   image: /assets/images/stock/unsplash-forest.jpg

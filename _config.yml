@@ -77,13 +77,29 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: _posts/en
+    values:
+      lang: en
+  - scope:
+      path: _posts/fr
+    values:
+      lang: fr
   # _pages
   - scope:
-      path: "_pages"
+      path: _pages
       type: pages
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: _pages/en
+    values:
+      lang: en
+  - scope:
+      path: _pages/fr
+    values:
+      lang: fr
 category_archive:
   type: liquid
   path: /categories/

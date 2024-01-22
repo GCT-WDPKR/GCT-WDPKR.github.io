@@ -1,6 +1,5 @@
 ---
 title: "Post: Quote"
-lang: en
 categories:
   - Blog
 tags:

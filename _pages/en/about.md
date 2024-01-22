@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-lang: en
 page_id: about
 header:
   image: /assets/images/stock/unsplash-forest.jpg
