@@ -17,7 +17,11 @@
     </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
-        {{ author.bio[site.active_lang] | markdownify }}
+        {% for lang in author.bio %}
+          {% if lang == site.active_lang %}
+            {{ author.bio[lang] | markdownify }}
+          {% endif %}
+        {% endfor %}
       </div>
     {% endif %}
   </div>
