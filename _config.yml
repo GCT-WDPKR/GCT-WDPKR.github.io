@@ -17,30 +17,40 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-minimal_mistakes_skin: default
 search: true
 
-## Polyglot
+## Localization / i18n / Polyglot settings
 languages: ["en", "fr"]
 default_lang: fr
 exclude_from_localization: ["assets/css", "assets/images", "assets/js"]
 parallel_localization: true
-whitelist:
-  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 repository: GCT-WDPKR/GCT-WDPKR.github.io
+include:
+  - _pages
+
+## Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-polyglot
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 
 ## Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
 
 ## Exclude from processing
 # The following items will not be processed, by default. Create a custom list
@@ -54,18 +64,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-## Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-polyglot
-  - jekyll-redirect-from
-
-## Misc. settings
+## YAML front matter settings
 defaults:
   # _posts
   - scope:
@@ -85,7 +84,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 category_archive:
   type: liquid
   path: /categories/
