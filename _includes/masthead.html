@@ -18,13 +18,13 @@
             </li>
           {%- endfor -%}
           <!-- Begin-LanguageSwitch -->
-          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% assign posts=site.posts | where:"page_id", page.page_id | sort: 'lang' %}
           {% for post in posts %}
             <li class="masthead__menu-item">
               <a href="{{ post.url }}" class="{{ post.lang }}" lang="{{ page.lang }}">{{ post.lang }}</a>
             </li>
           {% endfor %}
-          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% assign pages=site.pages | where:"page_id", page.page_id | sort: 'lang' %}
           {% for page in pages %}
             <li class="masthead__menu-item">
               <a href="{{ page.url }}" class="{{ page.lang }}" lang="{{ page.lang }}">{{ page.lang }}</a>

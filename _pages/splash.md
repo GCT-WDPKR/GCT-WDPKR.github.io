@@ -1,6 +1,7 @@
 ---
 title: "Woodpecker Élagage"
 layout: splash
+page_id: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:

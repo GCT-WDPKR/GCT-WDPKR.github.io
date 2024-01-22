@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+page_id: post_standard
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

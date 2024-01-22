@@ -1,5 +1,6 @@
 ---
 title: "Post: Quote"
+page_id: post_quote
 categories:
   - Blog
 tags:

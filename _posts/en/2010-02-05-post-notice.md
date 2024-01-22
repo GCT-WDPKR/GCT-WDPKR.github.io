@@ -1,5 +1,6 @@
 ---
 title: "Post: Notice"
+page_id: post_notice
 categories:
   - Blog
 tags:
