@@ -21,7 +21,7 @@ search: true
 ## Polyglot
 languages: ["en", "fr"]
 default_lang: fr
-exclude_from_localization: ["javascript", "images", "css", "public"]
+exclude_from_localization: ["assets/css", "assets/images", "assets/js"]
 parallel_localization: true
 whitelist:
   - jekyll-redirect-from
