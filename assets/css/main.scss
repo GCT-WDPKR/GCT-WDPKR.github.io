@@ -14,14 +14,6 @@ li.masthead__menu-item > a.fr {
   text-transform: capitalize;
 }
 
-li.masthead__menu-item:nth-last-child(1) > a {
-  margin-left: 0.2rem;
-}
-
-li.masthead__menu-item:nth-last-child(2) > a {
-  margin-right: 0.2rem;
-}
-
 li.masthead__menu-item > a.en:lang(en),
 li.masthead__menu-item > a.fr:lang(fr) {
   font-weight: bold;

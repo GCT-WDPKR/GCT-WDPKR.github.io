@@ -27,7 +27,7 @@
             <li class="masthead__menu-item">
               <a class="{{ lang }}" rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{% if lang == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ lang }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ lang }}</a>
             </li>
-            {%- if forloop.last == false -%}{{""}}{{ site.language_separator }}{%- endif -%}
+            <!-- {%- if forloop.last == false -%}{{""}}{{ site.language_separator }}{%- endif -%} -->
           {% endfor %}
         </ul>
         {% if site.search == true %}
