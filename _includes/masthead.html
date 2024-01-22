@@ -17,19 +17,20 @@
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
+          <!-- Begin-LanguageSwitch -->
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% for post in posts %}
             <li class="masthead__menu-item">
               <a href="{{ post.url }}" class="{{ post.lang }}" lang="{{ page.lang }}">{{ post.lang }}</a>
             </li>
           {% endfor %}
-
           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
           {% for page in pages %}
             <li class="masthead__menu-item">
               <a href="{{ page.url }}" class="{{ page.lang }}" lang="{{ page.lang }}">{{ page.lang }}</a>
             </li>
           {% endfor %}
+          <!-- End-LanguageSwitch -->
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
