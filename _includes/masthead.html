@@ -18,16 +18,10 @@
             </li>
           {%- endfor -%}
           <!-- Begin-LanguageSwitch -->
-          {% assign posts=site.posts | where:"page_id", page.page_id | sort: 'lang' %}
-          {% for post in posts %}
-            <li class="masthead__menu-item">
-              <a href="{{ post.url }}" class="{{ post.lang }}" lang="{{ page.lang }}">{{ post.lang }}</a>
-            </li>
-          {% endfor %}
-          {% assign pages=site.pages | where:"page_id", page.page_id | sort: 'lang' %}
-          {% for page in pages %}
-            <li class="masthead__menu-item">
-              <a href="{{ page.url }}" class="{{ page.lang }}" lang="{{ page.lang }}">{{ page.lang }}</a>
+          {% for lang in site.languages %}
+            {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
+            <li class="masthead__menu-item" class="{{ lang }}" lang="{{ lang }}">
+              <a rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">{{ lang }}</a>
             </li>
           {% endfor %}
           <!-- End-LanguageSwitch -->
