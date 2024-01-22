@@ -22,6 +22,7 @@ search: true
 ## Localization / i18n / Polyglot settings
 languages: ["en", "fr"]
 default_lang: fr
+language_separator: "•" # "|", "•", "·", "-", "–"
 exclude_from_localization: ["assets/css", "assets/images", "assets/js"]
 parallel_localization: true
 
