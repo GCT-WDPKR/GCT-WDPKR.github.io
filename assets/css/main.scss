@@ -1,0 +1,11 @@
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Language Switch
+.masthead__menu-item.en:lang(en),
+.masthead__menu-item.fr:lang(fr){
+  font-weight: bold;
+  pointer-events: none;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
