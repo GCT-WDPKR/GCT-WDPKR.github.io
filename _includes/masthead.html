@@ -17,14 +17,12 @@
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
-          <!-- Begin-LanguageSwitch -->
           {% for lang in site.languages %}
             {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
-            <li class="masthead__menu-item" class="{{ lang }}" lang="{{ lang }}">
+            <li class="masthead__menu-item" class="{{ lang }}" lang="{{ page.lang }}">
               <a rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">{{ lang }}</a>
             </li>
           {% endfor %}
-          <!-- End-LanguageSwitch -->
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
