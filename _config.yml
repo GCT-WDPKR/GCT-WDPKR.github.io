@@ -29,7 +29,7 @@ parallel_localization: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark # default
 repository: GCT-WDPKR/GCT-WDPKR.github.io
 include:
   - _pages
