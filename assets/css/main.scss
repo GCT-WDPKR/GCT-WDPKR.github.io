@@ -32,14 +32,14 @@ search: false
   float: right;
 }
 
-// Site logo
+// Site Logo
 @media only screen and (min-width: 992px) {
   .site-logo {
     position: absolute;
     transform: scale(4);
     top: 3rem;
     left: -8em;
-    border: 1px solid black;
+    border: 1px solid #252a34;
     border-radius: 50%;
   }
 }
