@@ -23,6 +23,15 @@ search: false
 // /* Extra large devices (large laptops and desktops, 1200px and up) */
 // @media only screen and (min-width: 1200px) {}
 
+// Sticky Masthead
+.masthead {
+  @include clearfix();
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0em;
+  float: right;
+}
+
 // Site logo
 @media only screen and (min-width: 992px) {
   .site-logo {
