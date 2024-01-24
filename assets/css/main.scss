@@ -8,6 +8,33 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// /* Extra small devices (phones, 600px and down) */
+// @media only screen and (max-width: 600px) {}
+
+// /* Small devices (portrait tablets and large phones, 600px and up) */
+// @media only screen and (min-width: 600px) {}
+
+// /* Medium devices (landscape tablets, 768px and up) */
+// @media only screen and (min-width: 768px) {}
+
+// /* Large devices (laptops/desktops, 992px and up) */
+// @media only screen and (min-width: 992px) {}
+
+// /* Extra large devices (large laptops and desktops, 1200px and up) */
+// @media only screen and (min-width: 1200px) {}
+
+// Site logo
+@media only screen and (min-width: 992px) {
+  .site-logo {
+    position: absolute;
+    transform: scale(4);
+    top: 3rem;
+    left: -8em;
+    border: 1px solid black;
+    border-radius: 50%;
+  }
+}
+
 // Language Switch
 li.masthead__menu-item > a.en,
 li.masthead__menu-item > a.fr {
