@@ -12,9 +12,11 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "English version of the splash page."
+excerpt: "Climbing Arborist & Tree Care Company. Certified and insured for all tree care and garden maintenance operations. 
+
+FREE CONSULTATION AND QUOTE."
 intro: 
-  - excerpt: 'Some english text here.'
+  - excerpt: 'ADVICE, TREE FELLING AT THE BASE, CANOPY DISMANTLING, RETENTION SYSTEMS, CROWN THINNING, FRUIT TREE PRUNING, WOOD CHIPPING, LOG SPLITTING, AND GREEN WASTE DISPOSAL.'
 feature_row:
   - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
     alt: "placeholder image 1"

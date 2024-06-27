@@ -20,17 +20,32 @@ gallery:
     title: "Training Day Image 3"
 ---
 
-Amoureux de la nature depuis son enfance, Geraint a travaillé a coté de sa mère qui avait sa propre entreprise, ‘Jayne Thomas Garden Design Limited’, qui était primé de nombreuses médailles au concours national d’architecture d’extérieur en Angleterre. Sa carrière a évolué ; cuisinier… Eh oui, le petit Galois adore cuisiner et surtout manger ! Cinq ans des belles expériences autour du monde ; un pub anglaise, un petit bistrot a Paris, une Italienne en Nouvelle Zélande. Mais pour vœu de retrouver le bonheur de travailler à l’extérieur et d’une vie plus harmonieuse avec sa famille, il retournerait dans la nature aux postes de : jardinier, paysagiste, et puis il trouverait son travail de rêve… Arboriste Élagueur Grimpeur.
+À propos de Woodpecker Élagage 
 
-Geraint, a fini son certificat de spécialisation à Fodé Ouest, Nantes, en décembre 2021, et puis a travaillé pour la prestigieuse entreprise Vert d’Horizon, Piriac-sur-Mer pendant un an et demi.
+Woodpecker Élagage se spécialise dans des services complets de soins aux arbres adaptés à vos besoins. Sous la direction de Geraint, notre fondateur, arboriste grimpeur certifié fort de plusieurs années d'expérience, nous nous engageons à fournir des soins aux arbres tout en priorisant la sécurité et la responsabilité environnementale.
+
+Rencontrez Geraint, notre fondateur 
+
+Depuis son plus jeune âge, Geraint a toujours aimé les activités de plein air, le trekking, l'escalade et les longues promenades dans les bois avec ses amis à quatre pattes. Pendant son adolescence, il a travaillé aux côtés de sa mère, une paysagiste primée qui possédait sa propre entreprise dans la banlieue de Londres, "Jayne Thomas Garden Design Limited". 
+Après avoir travaillé pendant cinq ans comme chef cuisinier dans le monde entier, le besoin d'être à l'extérieur avec des horaires de travail réguliers a motivé la décision de changer de carrière. Quelques emplois ont suivi : jardinier, puis ouvrier paysagiste, avant d'entendre parler des arboristes. Grimper au sommet de géants vivants, le frisson d'une grosse abattage, et une compréhension plus profonde de la nature dont nous dépendons.
+
+Après d’avoir obtenu son diplôme d'arboriste chez Fodé Ouest, à Nantes, Geraint a rejoint ses nouveaux collègues chez Vert d'Horizon. Ici, il a acquis beaucoup d’expérience en utilisant une variété de systèmes de rétention sophistiqués pour s'attaquer aux travaux les plus difficiles. Ayant une qualification plus récente, Geraint a introduit de nouvelles techniques à ses collègues, notamment la Statique Rope Technique (SRT). Samuel DURAND, le patron attentionné et progressiste de Vert d'Horizon, a organisé un créneau dans le calendrier pour que toute l'équipe soit initiée à la SRT, sous la houlette de Geraint. La journée a été un franc succès ! 
 
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
-Le metier d’arboriste est relativement jeune ; les connaissance du vegetal, les techniques de grimpe et les materiels utilise evolue tout le temps. Geraint, issu d’une formation plus recent a eu pour objectif de convaincre sa nouvelle equipe de le efficacité de ces nouvelles techniques et les reformer ainsi de suite. 
+Cliquez ici pour voir un article détaillant la journée... https://vertdhorizon.fr/gazette/formation-srt/ 
 
-Aprés quelques mois travailler ensemble l’equipe se designe convaincu. Le patron de Vert d’Horizon, Samuel DURAND, ouvert d’esprit et attentif de ses employés, organise une journée de formation et une renouvellement de materielles pour l’integralite de son equipe. Ces fameuses techniques, nommé ‘Static Rope Technique, ou SRT’, permet une ascension plus ergonomique, moins fatigant pour le corp, et une grande porte ouverte de nombreuse techniques de deplacement dans l’arbre. 
+Le déménagement à Quistinic a été l'occasion de se lancer dans l'aventure entrepreneuriale. Woodpecker Élagage a été fondé en octobre 2023, offrant des services d'élagage, d'abattage et d'entretien de jardins. Si vous recherchez des conseils honnêtes et compétents et un service professionnel efficace, ne cherchez pas plus loin, contactez-nous ici. <Lien de contact>
 
-Clique ici pour lire un article de Vert d’horizon dessus : [https://vertdhorizon.fr/gazette/formation-srt/](https://vertdhorizon.fr/gazette/formation-srt/) 
+Découvrez nos services :
 
-{% include gallery caption="Training day gallery." %}
+Explorez la gamme de services offerts par Woodpecker Élagage en visitant le lien ci-dessous.
+
+[Services Offerts - Lien]
+
+Découvrez notre travail :
+
+Pour voir des exemples de projets réalisés par Woodpecker Élagage, cliquez sur le lien ci-dessous.
+
+[Portfolio - Lien]

@@ -12,11 +12,11 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Entreprise d'arboriste-elagueur-grimpeur. Certifié et assuré pour tout travail d'élagage et entretien des espaces verts. Prenez rendez-vous maintenant.
-PRENEZ RENDEZ-VOUS
+excerpt: "Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.
+
 ! DEVIS GRATUIT !"
 intro: 
-  - excerpt: 'CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, TAILLE ; SANITAIRE, ECLAIRCIE, FRUCTIFICATION.'
+  - excerpt: 'CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, FENDAGE, ET ÉVACUATION DES DÉCHETS'
 feature_row:
   - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
     alt: "placeholder image 1"
