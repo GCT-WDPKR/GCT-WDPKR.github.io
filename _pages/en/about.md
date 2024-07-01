@@ -3,8 +3,12 @@ title: "About"
 permalink: /about/
 page_id: about
 header:
-  image: /assets/images/stock/unsplash-forest.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # image: /assets/images/stock/unsplash-forest.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/stock/unsplash-forest.jpg
+excerpt: "About Woodpecker Élagage"
 gallery:
   - url: /assets/images/vert-dhorizon/training-day/20220513_094140.jpg
     image_path: assets/images/vert-dhorizon/training-day/20220513_094140.jpg
@@ -19,8 +23,6 @@ gallery:
     alt: "Training Day Image 3"
     title: "Training Day Image 3"
 ---
-
-About Woodpecker Élagage
 
 Woodpecker Élagage specializes in comprehensive tree care services tailored to your needs. Led by Geraint, our founder, a certified climbing arborist with years of experience, we are dedicated to delivering expert tree care while prioritizing safety and environmental responsibility.
 
