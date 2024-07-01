@@ -2,11 +2,11 @@
 main:
   - title: "L'Entreprise"
     url: /l-entreprise/
-  - title: Publications
-    url: /publications/
+  # - title: Publications
+  #   url: /publications/
   - title: Realisations
     url: /realisations/
+  - title: Services
+    url: /services
   - title: Contact
     url: /contact/
-  - title: Terms
-    url: /terms
