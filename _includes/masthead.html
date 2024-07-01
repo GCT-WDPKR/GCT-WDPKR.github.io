@@ -27,9 +27,18 @@
 
           {% for lang in site.languages %}
             {% assign lang_name = site.data[lang].l10n.lang_name %}
-            {% if lang == site.active_lang %}
+            {% if lang != site.active_lang %}
+              <li class="masthead__menu-item">
+                <a class="{{ lang }}" rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">
+                  <i class="fas fa-globe" aria-hidden="true"></i>
+                  {{ lang_name }}
+                </a>
+              </li>
+            {% endif %}
+
+            <!-- {% if lang == site.active_lang %} -->
               <!-- {{ lang_name }} -->
-            {% else %}
+            <!-- {% else %}
               {% if lang == site.default_lang %}
                 <li class="masthead__menu-item">
                   <a class="{{ lang }}" rel="alternate" href="/" hreflang="{{ lang }}">
@@ -44,7 +53,7 @@
                     {{ lang_name }}
                   </a>
                 </li>
-              {% endif %}
+              {% endif %} -->
             {% endif %}
           {% endfor %}
 
