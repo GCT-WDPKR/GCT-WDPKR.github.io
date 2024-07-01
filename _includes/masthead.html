@@ -17,12 +17,37 @@
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
-          {% for lang in site.languages %}
+
+          <!-- {% for lang in site.languages %}
             {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
             <li class="masthead__menu-item">
               <a class="{{ lang }}" rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">{{ lang }}</a>
             </li>
+          {% endfor %} -->
+
+          {% for lang in site.languages %}
+            {% assign lang_name = site.data[lang].l10n.lang_name %}
+            {% if lang == site.active_lang %}
+              <!-- {{ lang_name }} -->
+            {% else %}
+              {% if lang == site.default_lang %}
+                <li class="masthead__menu-item">
+                  <a class="{{ lang }}" rel="alternate" href=" {{ page.url }}" hreflang="{{ lang }}">
+                    <i class="fas fa-globe" aria-hidden="true"></i>
+                    {{ lang_name }}
+                  </a>
+                </li>
+              {% else %}
+                <li class="masthead__menu-item">
+                  <a class="{{ lang }}" rel="alternate" href="/{{ lang }}{{ page.url }}" hreflang="{{ lang }}">
+                    <i class="fas fa-globe" aria-hidden="true"></i>
+                    {{ lang_name }}
+                  </a>
+                </li>
+              {% endif %}
+            {% endif %}
           {% endfor %}
+
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
