@@ -94,7 +94,7 @@ gallery_three:
     image_path: /assets/images/sectional-felling-freefall/IMG_20231220_092059_387.jpg
     alt: "sectional felling freefall image 4"
     title: "Image 4 title caption"
-gallery_three:
+gallery_four:
   - url: /assets/images/taille-sanitaire/IMG_20231120_085152_272.jpg
     image_path: /assets/images/taille-sanitaire/IMG_20231120_085152_272.jpg
     alt: "taille snitaire image 1"
