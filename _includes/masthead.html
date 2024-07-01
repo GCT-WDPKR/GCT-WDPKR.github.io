@@ -32,14 +32,14 @@
             {% else %}
               {% if lang == site.default_lang %}
                 <li class="masthead__menu-item">
-                  <a class="{{ lang }}" rel="alternate" href=" {{ page.url }}" hreflang="{{ lang }}">
+                  <a class="{{ lang }}" rel="alternate" href="/" hreflang="{{ lang }}">
                     <i class="fas fa-globe" aria-hidden="true"></i>
                     {{ lang_name }}
                   </a>
                 </li>
               {% else %}
                 <li class="masthead__menu-item">
-                  <a class="{{ lang }}" rel="alternate" href="/{{ lang }}{{ page.url }}" hreflang="{{ lang }}">
+                  <a class="{{ lang }}" rel="alternate" href="/{{ lang }}" hreflang="{{ lang }}">
                     <i class="fas fa-globe" aria-hidden="true"></i>
                     {{ lang_name }}
                   </a>
