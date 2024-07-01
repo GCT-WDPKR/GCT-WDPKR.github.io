@@ -27,6 +27,7 @@
 
           {% for lang in site.languages %}
             {% assign lang_name = site.data[lang].l10n.lang_name %}
+            {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
             {% if lang != site.active_lang %}
               <li class="masthead__menu-item">
                 <a class="{{ lang }}" rel="alternate" {% static_href %}href="{{ lang_href }}"{% endstatic_href %} hreflang="{{ lang }}">
