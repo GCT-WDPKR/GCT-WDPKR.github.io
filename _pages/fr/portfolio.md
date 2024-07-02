@@ -125,7 +125,7 @@ Voici un exemple d'abattage par démontage de deux bouleaux.
 
 {% include gallery id="gallery_one" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in French.
+Ici, les dégâts causés par la tempête ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé en rétention.
 
 {% include gallery id="gallery_two" caption="This is a sample gallery with **Markdown support**." %}
 
