@@ -32,20 +32,20 @@ From a young age, Geraint had always enjoyed the outdoors, trekking, climbing, a
 
 After five years of working as a chef worldwide, the need to be outdoors with regular working hours drove the decision to change careers. A couple of jobs ensued; working as a gardener, then a landscaper, before hearing about arborists. Climbing atop living giants, the thrill of a big felling, and a deeper understanding of the nature we rely on.
 
-After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his new colleagues at Vert d'Horizon. Here he gained a wealth of experience using a variety of sophisticated rigging systems to tackle even the most challenging of jobs. Having a more recent qualification, Geraint introduced new techniques to his colleagues, namely Static Rope Technique (SRT). Samuel DURAND, being the considerate and progressive-minded boss at Vert d'Horizon, organised a slot in the calendar for the whole team to be initiated in SRT, led by Geraint. The day was a great success! 
+After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his new colleagues at Vert d'Horizon. He gained a wealth of experience using various sophisticated rigging systems to tackle even the most challenging jobs. Having a more recent qualification, Geraint introduced new techniques to his colleagues, namely Static Rope Technique (SRT). Samuel DURAND, being the considerate and progressive-minded boss at Vert d'Horizon, organised a slot in the calendar for the whole team to be initiated in SRT, led by Geraint. The day was a great success! 
 
 
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
-Click here to see an article detailing the day…  https://vertdhorizon.fr/gazette/formation-srt/
+Click here to see an article detailing the day…  [Link to article](https://vertdhorizon.fr/gazette/formation-srt/)
 
 Relocating to Quistinic spawned an ideal opportunity to venture into entreprise. Woodpecker Élagage was founded in October 2023, offering tree pruning, felling, and garden maintenance services. If you’re looking for competent honest advice and professional efficient service, look no further, contact us here. https://gct-wdpkr.github.io/en/contact/
 
 Discover our Services
 
-Explore the range of services offered by Woodpecker Élagage by visiting the link below. <Services link>
+Explore the range of services offered by Woodpecker Élagage by visiting the link below. [Services Page](https://gct-wdpkr.github.io/services/)
 
 View Our Work 
 
-To see examples of projects completed by Woodpecker Élagage, click the link below. https://gct-wdpkr.github.io/en/portfolio/
+To see examples of projects completed by Woodpecker Élagage, click the link below. [Portfolio Page](https://gct-wdpkr.github.io/en/portfolio/)
