@@ -41,3 +41,19 @@ Abattage par démontage
 
 Abattage par démontage en rétention
 - Quand les contraintes autour de l'arbre nécessitent une gestion des chutes.
+
+# Entretien de jardin
+
+Débroussaillage
+
+Tonte de pelouse de taille petit a moyen
+
+Taille de haie
+
+Karcher
+
+Évacuation de déchets verts
+
+# Broyage
+
+# Fendage du bois
