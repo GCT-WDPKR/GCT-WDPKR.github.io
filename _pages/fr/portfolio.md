@@ -121,7 +121,7 @@ gallery_four:
     title: "Image 2 title caption"
 ---
 
-This is the portfolio page in French.
+Voici un exemple d'abattage par démontage de deux bouleaux.
 
 {% include gallery id="gallery_one" caption="This is a sample gallery with **Markdown support**." %}
 
