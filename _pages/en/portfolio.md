@@ -121,19 +121,19 @@ gallery_four:
     title: "Image 2 title caption"
 ---
 
-This is the portfolio page in English.
+This is an example of two birch trees being freefall section felled.
 
 {% include gallery id="gallery_one" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in English.
+Here, we have storm damage causing a large limb failure on this beautiful Monterrey Pine in the middle of Cholet. With a stone wall, road, telephone and electrical lines nearby the limb needed to be rigged down.
 
 {% include gallery id="gallery_two" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in English.
+Multiple takedowns and a crown lift for this farm renovation project. Buildings and telephone lines close by necessitated freefall section felling.
 
 {% include gallery id="gallery_three" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in English.
+Storm damage resulted in the removal of one of the Scots Pines and the deadwooding of the other, along with the oak. Hard cut back of the hazel and a crown thinning for the apple tree in the understory resulted in a safer, brighter, and more harmonious garden.
 
 {% include gallery id="gallery_four" caption="This is a sample gallery with **Markdown support**." %}
 
