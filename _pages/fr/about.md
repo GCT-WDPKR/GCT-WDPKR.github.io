@@ -36,7 +36,7 @@ Après d’avoir obtenu son diplôme d'arboriste chez Fodé Ouest, à Nantes, Ge
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
-Cliquez ici pour voir un article détaillant la journée... https://vertdhorizon.fr/gazette/formation-srt/ 
+Cliquez ici pour voir un article détaillant la journée... [Lien vers l'article](https://vertdhorizon.fr/gazette/formation-srt/) 
 
 Le déménagement à Quistinic a été l'occasion de se lancer dans l'aventure entrepreneuriale. Woodpecker Élagage a été fondé en octobre 2023, offrant des services d'élagage, d'abattage et d'entretien de jardins. Si vous recherchez des conseils honnêtes et compétents et un service professionnel efficace, ne cherchez pas plus loin, contactez-nous ici. <Lien de contact>
 
@@ -44,10 +44,10 @@ Découvrez nos services :
 
 Explorez la gamme de services offerts par Woodpecker Élagage en visitant le lien ci-dessous.
 
-[Services Offerts - Lien]
+[Page Services](https://gct-wdpkr.github.io/services/)
 
 Découvrez notre travail :
 
 Pour voir des exemples de projets réalisés par Woodpecker Élagage, cliquez sur le lien ci-dessous.
 
-[Portfolio - Lien]
+[Page Réalisations](https://gct-wdpkr.github.io/realisations/)
