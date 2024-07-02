@@ -129,7 +129,7 @@ Ici, les dégâts causés par la tempête ont entraîné la chute d'une grosse c
 
 {% include gallery id="gallery_two" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in French.
+Plusieurs démontages et un réhaussement de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'abattage par démontage.
 
 {% include gallery id="gallery_three" caption="This is a sample gallery with **Markdown support**." %}
 
