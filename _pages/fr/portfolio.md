@@ -133,6 +133,6 @@ Plusieurs démontages et un réhaussement de couronne pour ce projet de rénovat
 
 {% include gallery id="gallery_three" caption="This is a sample gallery with **Markdown support**." %}
 
-This is the portfolio page in French.
+Encore la tempête, et les dégâts ont entraîné l'abattage d'un des pins sylvestres et un taille sanitaire de l'autre, ainsi que du chêne. Un forte réduction d'hauteur du noisetier et l'éclaircissement du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux.
 
 {% include gallery id="gallery_four" caption="This is a sample gallery with **Markdown support**." %}
