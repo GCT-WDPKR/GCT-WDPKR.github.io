@@ -38,7 +38,9 @@ Après d’avoir obtenu son diplôme d'arboriste chez Fodé Ouest, à Nantes, Ge
 
 Cliquez ici pour voir un article détaillant la journée... [Lien vers l'article](https://vertdhorizon.fr/gazette/formation-srt/) 
 
-Le déménagement à Quistinic a été l'occasion de se lancer dans l'aventure entrepreneuriale. Woodpecker Élagage a été fondé en octobre 2023, offrant des services d'élagage, d'abattage et d'entretien de jardins. Si vous recherchez des conseils honnêtes et compétents et un service professionnel efficace, ne cherchez pas plus loin, contactez-nous ici. <Lien de contact>
+Le déménagement à Quistinic a été l'occasion de se lancer dans l'aventure entrepreneuriale. Woodpecker Élagage a été fondé en octobre 2023, offrant des services d'élagage, d'abattage et d'entretien de jardins. Si vous recherchez des conseils honnêtes et compétents et un service professionnel efficace, ne cherchez pas plus loin, contactez-nous ici. 
+
+<Lien de contact>
 
 Découvrez nos services :
 
