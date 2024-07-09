@@ -7,9 +7,7 @@ feature_row:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
       title: "Fendage"
-      excerpt: |
-Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ;
-Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable
+      excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
     - image_path: /assets/images/Broyeur.jpg
       alt: "Broyeur"
       title: "Broyage"
