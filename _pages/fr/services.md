@@ -3,15 +3,17 @@ title: "Services"
 page_id: services
 permalink: /services/
 author_profile: true
-feature_row:
+feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
-      title: "Fendage"
+      ttitle: "Fendage"
       excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
+feature_row2:
     - image_path: /assets/images/Broyeur.jpg
       alt: "Broyeur"
       title: "Broyage"
       excerpt: "Modèle Jansen, Essence, GTS-2000 pro ; capable a broyer des branches jusqu’à 10cm de diamètre, compact et remorquable permet un déplacement facile"
+feature_row3:
     - image_path: /assets/images/Remorque.jpg
       alt: "Remorque"
       title: "Remorque"
@@ -69,4 +71,10 @@ Karcher
 
 # Location de materiel
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+
