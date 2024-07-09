@@ -8,10 +8,10 @@ author_profile: true
 # Taille
 
 Taille Sanitaire 
-- Un taille sanitaire consiste de suppressions des branches mortes, abîmes ou déchirés, croisé (des branches qui se superpose, se frotte, et sont a risque de casser dans le futur).
+- Une taille sanitaire consiste de suppressions des branches mortes, abîmes ou déchirés, croisé (des branches qui se superpose, se frotte, et sont a risque de casser dans le futur).
 
 Taille d’Éclaircie 
-- Un taille d’éclaircie consiste d’une taille sanitaire plus la suppression des branches “mal orientés” (vers l’intérieur du houppier¹) afin d’avoir un houppier plus harmonieux et de la lumière qui passe a travers.
+- Une taille d’éclaircie de manière raisonnable consiste d’une taille sanitaire plus la suppression des branches “mal orientés” (vers l’intérieur du houppier¹) afin d’avoir un houppier plus harmonieux et de la lumière qui passe à travers.
 
 Rehaussement 
 - Un rehaussement, ou remontée de couronne, est la suppression des branches basses afin d’avoir un espace autour de l’arbre moins encombré. 
