@@ -6,7 +6,7 @@ splash:
 
     ! DEVIS GRATUIT !
   intro:
-    - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, FENDAGE, ET ÉVACUATION DES DÉCHETS"
+    - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ÉSPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
     - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
       alt: "Abattage par démontage"
@@ -15,14 +15,14 @@ splash:
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "Grand ou Petit"
-      title: "Grand ou petit"
-      excerpt: "Un service propre et précis n'importe la taille de l'arbre."
+      title: "Un travail propre et précis, quelle que soit la taille de l'arbre"
+      excerpt: "Fort de ses années d'expérience dans la gestion de grands arbres, Woodpecker Élagage est en mesure de réaliser les projets les plus difficiles."
       url: "https://gct-wdpkr.github.io/realisations/"
       btn_label: "D'autres Réalisations"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
       title: "Travail en Rétention"
-      excerpt: "Capables de s'attaquer aux travaux les plus difficiles, nous ne laissons rien au hasard. Faite confiance aux professionnels "
+      excerpt: "Lorsqu'il n'y a pas de place pour l'erreur, nous ne laissons rien au hasard. Faites confiance aux professionnels."
   feature_row2:
     - image_path: /assets/images/taille sanitaire.jpg
       alt: "Voici une taille d'eclaircie"
