@@ -10,8 +10,8 @@ header:
 excerpt: "Si vous avez des questions, envoyez-nous un courriel et nous serons heureux de vous aider. Vous trouverez nos coordonnées sur la page de contact."
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
-      alt: "fendeuse"
-      ttitle: "Fendage"
+      alt: "Fendage"
+      title: "Fendage"
       excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
 feature_row2:
     - image_path: /assets/images/Broyeur.jpg
