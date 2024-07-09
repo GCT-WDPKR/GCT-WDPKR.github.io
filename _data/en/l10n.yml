@@ -6,7 +6,7 @@ splash:
 
     FREE CONSULTATION AND QUOTE.
   intro:
-    - excerpt: "ADVICE, TREE FELLING AT THE BASE, CANOPY DISMANTLING, RETENTION SYSTEMS, CROWN THINNING, FRUIT TREE PRUNING, WOOD CHIPPING, LOG SPLITTING, AND GREEN WASTE DISPOSAL."
+    - excerpt: "ADVICE, TREE FELLING AT THE BASE, CANOPY DISMANTLING, RETENTION SYSTEMS, CROWN THINNING, FRUIT TREE PRUNING, WOOD CHIPPING, GARDEN MAINTENANCE, LOG SPLITTING, AND GREEN WASTE DISPOSAL."
   feature_row:
     - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
       alt: "EN placeholder image 1"
@@ -15,8 +15,8 @@ splash:
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "EN placeholder image 2"
-      title: "Clean, precise work, whatever the size of the tree."
-      excerpt: "With years of experience handling big complex trees, Woodpecker Élagage can carry out even the most challenging of projects"
+      title: "Clean, precise work, whatever the size of the tree"
+      excerpt: "With years of experience handling big complex trees, Woodpecker Élagage can carry out even the most challenging of projects."
       url: "#https://gct-wdpkr.github.io/en/portfolio/"
       btn_label: "See more work here"
       btn_class: "btn--primary"
