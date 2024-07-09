@@ -3,6 +3,13 @@ title: "Realisations"
 page_id: portfolio
 permalink: /realisations/
 author_profile: true
+header:
+  # image: /assets/images/header photo 2.jpg
+  # caption: "Orme, Ulimus Minor"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header photo 2.jpg
+excerpt: "Voir quelques-uns de nos travaux précédents"
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
