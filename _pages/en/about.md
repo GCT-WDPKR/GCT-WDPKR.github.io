@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/stock/unsplash-forest.jpg
-excerpt: "About Woodpecker Élagage"
+excerpt: "Meet Woodpecker Élagage"
 gallery:
   - url: /assets/images/vert-dhorizon/training-day/20220513_094140.jpg
     image_path: assets/images/vert-dhorizon/training-day/20220513_094140.jpg
@@ -42,10 +42,10 @@ Click here to see an article detailing the day…  [Link to article](https://ver
 
 Relocating to Quistinic spawned an ideal opportunity to venture into entreprise. Woodpecker Élagage was founded in October 2023, offering tree pruning, felling, and garden maintenance services. If you’re looking for competent honest advice and professional efficient service, look no further, contact us here. https://gct-wdpkr.github.io/en/contact/
 
-Discover our Services
+Discover our services
 
 Explore the range of services offered by Woodpecker Élagage by visiting the link below. [Services Page](https://gct-wdpkr.github.io/services/)
 
-View Our Work 
+View our work 
 
 To see examples of projects completed by Woodpecker Élagage, click the link below. [Portfolio Page](https://gct-wdpkr.github.io/en/portfolio/)
