@@ -1,7 +1,7 @@
 ---
 title: "Services"
 page_id: services
-permalink: /en/services/
+permalink: /services/
 author_profile: true
 ---
 

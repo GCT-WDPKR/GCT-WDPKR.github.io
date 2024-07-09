@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 page_id: portfolio
-permalink: /en/portfolio/
+permalink: /portfolio/
 author_profile: true
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg

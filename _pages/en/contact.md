@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 page_id: contact
-permalink: /en/contact/
+permalink: /contact/
 author_profile: true
 ---
 

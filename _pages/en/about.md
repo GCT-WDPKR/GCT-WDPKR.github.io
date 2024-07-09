@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /en/about/
+permalink: /about/
 page_id: about
 header:
   # image: /assets/images/stock/unsplash-forest.jpg
