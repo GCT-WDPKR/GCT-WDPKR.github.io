@@ -87,7 +87,7 @@ Karcher
 
 # Tarifs
 
-|| Service      || Description || Price ||
+| Service      | Description | Price |
 | ----------- | ----------- | ----------- |
 | Header      | Title | £1000 |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | £30000 |
