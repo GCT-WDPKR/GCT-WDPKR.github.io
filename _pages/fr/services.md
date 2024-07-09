@@ -22,11 +22,11 @@ feature_row3:
 
 #### Table des matières
 
-- [Taille](#Taille)
-- [Abattage](#Abattage)
-- [Entretien de jardin](#Entretien%20de%20jardin)
-- [Location de materiel](#Location%20de%20materiel)
-- [Tarifs](#Tarifs)
+- [Taille](#taille)
+- [Abattage](#abattage)
+- [Entretien de jardin](#entretien-de-jardin)
+- [Location de materiel](#location-de-materiel)
+- [Tarifs](#tarifs)
 
 # Taille
 
