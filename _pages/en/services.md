@@ -3,7 +3,35 @@ title: "Services"
 page_id: services
 permalink: /services/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header photo 3.jpg
+feature_row1:
+    - image_path: /assets/images/fendeuse.jpg
+      alt: "fendeuse"
+      ttitle: "Fendage"
+      excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
+feature_row2:
+    - image_path: /assets/images/Broyeur.jpg
+      alt: "Broyeur"
+      title: "Broyage"
+      excerpt: "Modèle Jansen, Essence, GTS-2000 pro ; capable a broyer des branches jusqu’à 10cm de diamètre, compact et remorquable permet un déplacement facile"
+feature_row3:
+    - image_path: /assets/images/Remorque.jpg
+      alt: "Remorque"
+      title: "Remorque"
+      excerpt: " Modèle Lider benne hydraulique avec rehaussement grillagé PTAC 750kg, dim. L=253cm, W=147cm"
 ---
+
+#### Table of Contents
+
+- [Pruning](#pruning)
+- [Felling](#felling)
+- [Garden maintenance ](#garden-maintenance)
+- [Chipping](#chipping)
+- [Log splitting ](#log-splitting)
+- [Prices](#prices)
 
 # Pruning 
 
@@ -57,3 +85,16 @@ Green waste removal
 # Chipping 
 
 # Log splitting 
+
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+# Prices
+
+| Service      | Description | Price |
+| ----------- | ----------- | ----------- |
+| Header      | Title | £1000 |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | £30000 |
