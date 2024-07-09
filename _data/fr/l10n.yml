@@ -1,8 +1,11 @@
 lang_name: "Français"
 splash:
-  title: "My Français Splash Title"
-  excerpt: "My Français Splash Excerpt"
-  intro: "My Français Splash Intro"
+  title: "Woodpecker Élagage"
+  excerpt: "Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.
+
+! DEVIS GRATUIT !"
+  intro:
+    - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
     - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
       alt: "FR placeholder image 1"
