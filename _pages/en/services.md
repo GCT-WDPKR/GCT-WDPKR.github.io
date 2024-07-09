@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header photo 3.jpg
+excerpt: "If you have any queries, drop us an email and we'll be happy to help. Our details can be found on the contact page."
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
