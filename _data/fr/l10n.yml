@@ -8,42 +8,42 @@ splash:
   intro:
     - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
-    - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
-      alt: "FR placeholder image 1"
-      title: "FR Placeholder 1"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
+      alt: "Abattage par démontage"
+      title: "Abattage par Démontage"
+      excerpt: "Quand les contraintes autour oblige une approche plus délicate."
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-      alt: "FR placeholder image 2"
-      title: "FR Placeholder 2"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
-      url: "#test-link"
-      btn_label: "Read More"
+      alt: "Grand ou Petit"
+      title: "Grand ou petit"
+      excerpt: "Un service propre et précis n'importe la taille de l'arbre."
+      url: "#https://gct-wdpkr.github.io/realisations/"
+      btn_label: "D'autres Réalisations"
       btn_class: "btn--primary"
-    - image_path: /assets/images/misc/IMG_20230421_102729_686.jpg
-      title: "FR Placeholder 3"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
+      title: "Travail en Rétention"
+      excerpt: "Capables de s'attaquer aux travaux les plus difficiles, nous ne laissons rien au hasard. Faite confiance aux professionnels "
   feature_row2:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
-      alt: "FR placeholder image 2"
-      title: "FR Placeholder Image Left Aligned"
-      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-      url: "#test-link"
-      btn_label: "Read More"
+    - image_path: /assets/images/taille sanitaire.jpg
+      alt: "Voici une taille d'eclaircie"
+      title: "Voici une taille d'eclaircie"
+      excerpt: 'Envie de voir d'autres tailles possibles ? Suivez le lien dessous."`'
+      url: "#https://gct-wdpkr.github.io/services/"
+      btn_label: "D'autres Services"
       btn_class: "btn--primary"
   feature_row3:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
-      alt: "FR placeholder image 2"
-      title: "FR Placeholder Image Right Aligned"
-      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-      url: "#test-link"
-      btn_label: "Read More"
+    - image_path: /assets/images/taille haie.jpg
+      alt: "Taille d'Haie"
+      title: "Taille d'Haie"
+      excerpt: 'Woodpecker Élagage, fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien dessous."`'
+      url: "#https://gct-wdpkr.github.io/contact/"
+      btn_label: "Contactez nous"
       btn_class: "btn--primary"
   feature_row4:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
-      alt: "FR placeholder image 2"
-      title: "FR Placeholder Image Center Aligned"
-      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-      url: "#test-link"
-      btn_label: "Read More"
+    - image_path: /assets/images/fendeuse.jpg
+      alt: "Fendage du Bois"
+      title: "Fendage du Bois"
+      excerpt: 'Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien dessous pour voir nos tarifs de location."`'
+      url: "#https://gct-wdpkr.github.io/services/"
+      btn_label: "Tarifs de loacation"
       btn_class: "btn--primary"
