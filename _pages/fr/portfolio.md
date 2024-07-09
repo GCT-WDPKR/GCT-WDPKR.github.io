@@ -121,18 +121,18 @@ gallery_four:
     title: "Image 2 title caption"
 ---
 
-Voici un exemple d'abattage par démontage de deux bouleaux.
+**Abattage par Démontage**
 
-{% include gallery id="gallery_one" caption="This is a sample gallery with **Markdown support**." %}
+{% Voici un exemple d'**abattage par démontage** de deux bouleaux." %}
 
-Ici, les dégâts causés par la tempête ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé en rétention.
+**Travail en Rétention**
 
-{% include gallery id="gallery_two" caption="This is a sample gallery with **Markdown support**." %}
+{% Ici, les dégâts causés par la **tempête** ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé **en rétention**." %}
 
-Plusieurs démontages et un réhaussement de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'abattage par démontage.
+**Plusieurs démontages et un réhaussement de couronne**
 
-{% include gallery id="gallery_three" caption="This is a sample gallery with **Markdown support**." %}
+{% Plusieurs **démontages** et un **réhaussement** de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'**abattage par démontage**." %}
 
-Encore la tempête, et les dégâts ont entraîné l'abattage d'un des pins sylvestres et un taille sanitaire de l'autre, ainsi que du chêne. Un forte réduction d'hauteur du noisetier et l'éclaircissement du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux.
+**Plusieurs tailles pour une ensemble harmonieux**
 
-{% include gallery id="gallery_four" caption="This is a sample gallery with **Markdown support**." %}
+{% Encore la **tempête**, et les dégâts ont entraîné l'**abattage** d'un des pins sylvestres et un **taille sanitaire** de l'autre, ainsi que du chêne. Un forte **réduction** d'hauteur du noisetier et l'**éclaircissement** du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux." %}
