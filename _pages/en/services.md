@@ -11,7 +11,7 @@ Deadwooding
 - Deadwooding consists of removing dead, damaged, or broken branches, and crossed branches (branches that overlap, rub against each other, and are likely to break in the future).
 
 Crown thinning 
-- A thinning consists of deadwooding plus the removal of "badly oriented" branches (for example, towards the inside of the crown¹) to have a more harmonious crown with more light passing through.
+- A reasonable thinning consists of deadwooding plus the removal of "badly oriented" branches (for example, towards the inside of the crown¹) to have a more harmonious crown with more light passing through.
 
 Crown lifting 
 - Or crown raising is the removal of low branches to create a less cluttered more accessible space around the tree. 
