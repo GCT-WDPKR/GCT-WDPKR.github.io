@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header photo 2.jpg
+excerpt: "See some of our previous projects"
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
@@ -125,19 +126,19 @@ gallery_four:
     title: "Image 2 title caption"
 ---
 
-This is an example of two birch trees being freefall section felled.
+**Freefall section felled**
 
-{% include gallery id="gallery_one" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_one" caption="This is an example of two birch trees being *freefall section felled*." %}
 
-Here, we have storm damage causing a large limb failure on this beautiful Monterrey Pine in the middle of Cholet. With a stone wall, road, telephone and electrical lines nearby the limb needed to be rigged down.
+**Rigged limb removal**
 
-{% include gallery id="gallery_two" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_two" caption="Here, we have storm damage causing a large limb failure on this beautiful Monterrey Pine in the middle of Cholet. With a stone wall, road, telephone and electrical lines nearby the limb needed to be *rigged* down." %}
 
-Multiple takedowns and a crown lift for this farm renovation project. Buildings and telephone lines close by necessitated freefall section felling.
+**Crown lift & multiple freefall section felling**
 
-{% include gallery id="gallery_three" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_three" caption="Multiple takedowns and a *crown lift* for this farm renovation project. Buildings and telephone lines close by necessitated *freefall section felling*." %}
 
-Storm damage resulted in the removal of one of the Scots Pines and the deadwooding of the other, along with the oak. Hard cut back of the hazel and a crown thinning for the apple tree in the understory resulted in a safer, brighter, and more harmonious garden.
+**Serveral types of prunning and the felling of a hazrdous tree** 
 
-{% include gallery id="gallery_four" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_four" caption="Storm damage resulted in the removal of one of the Scots Pines and the *deadwooding* of the other, along with the oak. Hard *crown reduction* of the hazel and *crown thinning* for the apple tree in the understory resulted in a safer, brighter, and more harmonious garden." %}
 
