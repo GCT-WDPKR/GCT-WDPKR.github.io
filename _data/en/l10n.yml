@@ -1,1 +1,45 @@
 lang_name: "English"
+splash:
+  title: "My English Splash Title"
+  excerpt: "My English Splash Excerpt"
+  intro: "My English Splash Intro"
+  feature_row:
+    - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
+      alt: "EN placeholder image 1"
+      title: "EN Placeholder 1"
+      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+      # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+      alt: "EN placeholder image 2"
+      title: "EN Placeholder 2"
+      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      url: "#test-link"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: /assets/images/misc/IMG_20230421_102729_686.jpg
+      title: "EN Placeholder 3"
+      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  feature_row2:
+    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+      alt: "EN placeholder image 2"
+      title: "EN Placeholder Image Left Aligned"
+      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+      url: "#test-link"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+  feature_row3:
+    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+      alt: "EN placeholder image 2"
+      title: "EN Placeholder Image Right Aligned"
+      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+      url: "#test-link"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+  feature_row4:
+    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+      alt: "EN placeholder image 2"
+      title: "EN Placeholder Image Center Aligned"
+      excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+      url: "#test-link"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
