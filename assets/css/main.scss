@@ -51,9 +51,10 @@ li.masthead__menu-item > a.fr {
   text-transform: capitalize;
 }
 
-li.masthead__menu-item > a.en:lang(en),
-li.masthead__menu-item > a.fr:lang(fr) {
-  font-weight: bold;
-  pointer-events: none;
-  text-decoration: underline;
-}
+// No longer necessary as we only show the link to the other lang.
+// li.masthead__menu-item > a.en:lang(en),
+// li.masthead__menu-item > a.fr:lang(fr) {
+//   font-weight: bold;
+//   pointer-events: none;
+//   text-decoration: underline;
+// }
