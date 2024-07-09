@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header photo 3.jpg
-excerpt: "Voici nos préstations de services"
+excerpt: "Si vous avez des questions, envoyez-nous un courriel et nous serons heureux de vous aider. Vous trouverez nos coordonnées sur la page de contact."
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
