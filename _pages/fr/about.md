@@ -26,7 +26,7 @@ gallery:
 
 Woodpecker Élagage se spécialise dans des services complets de soins aux arbres adaptés à vos besoins. Sous la direction de Geraint, notre fondateur, arboriste grimpeur certifié fort de plusieurs années d'expérience, nous nous engageons à fournir des soins aux arbres tout en priorisant la sécurité et la responsabilité environnementale.
 
-Rencontrez Geraint, notre fondateur 
+**Rencontrez Geraint, notre fondateur** 
 
 Depuis son plus jeune âge, Geraint a toujours aimé les activités de plein air, le trekking, l'escalade et les longues promenades dans les bois avec ses amis à quatre pattes. Pendant son adolescence, il a travaillé aux côtés de sa mère, une paysagiste primée qui possédait sa propre entreprise dans la banlieue de Londres, "Jayne Thomas Garden Design Limited". 
 Après avoir travaillé pendant cinq ans comme chef cuisinier dans le monde entier, le besoin d'être à l'extérieur avec des horaires de travail réguliers a motivé la décision de changer de carrière. Quelques emplois ont suivi : jardinier, puis ouvrier paysagiste, avant d'entendre parler des arboristes. Grimper au sommet de géants vivants, le frisson d'un gros abattage, et une compréhension plus profonde de la nature dont nous dépendons, que demander de plus !
@@ -48,7 +48,7 @@ Explorez la gamme de services offerts par Woodpecker Élagage en visitant le lie
 
 [Page Services](https://gct-wdpkr.github.io/services/)
 
-Découvrez notre travail :
+Découvrez nos réalisations :
 
 Pour voir des exemples de projets réalisés par Woodpecker Élagage, cliquez sur le lien ci-dessous.
 
