@@ -15,18 +15,18 @@ splash:
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "EN placeholder image 2"
-      title: "No matter the size"
-      excerpt: "Clean, precise work, whatever the size of the tree."
+      title: "Clean, precise work, whatever the size of the tree."
+      excerpt: "With years of experience handling big complex trees, Woodpecker Élagage can carry out even the most challenging of projects"
       url: "#https://gct-wdpkr.github.io/en/portfolio/"
       btn_label: "See more work here"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
       title: "Rigged work"
-      excerpt: "Capable of tackling the most difficult jobs, we leave nothing to chance. Put your trust in professionals."
+      excerpt: "When there's no room for error, we leave nothing to chance. Put your trust in professionals."
   feature_row2:
     - image_path: /assets/images/taille sanitaire.jpg
       alt: "EN placeholder image 2"
-      title: "An example of **Crown Thinning**"
+      title: "An example of Crown Thinning"
       excerpt: "Want to see different types of prunning? Follow the link below."
       url: "#https://gct-wdpkr.github.io/en/services/"
       btn_label: "Services available"
@@ -34,7 +34,7 @@ splash:
   feature_row3:
     - image_path: /assets/images/taille haie.jpg
       alt: "EN placeholder image 2"
-      title: "Hedgecutting"
+      title: "Garden Maintenance - Hedgecutting"
       excerpt: "Woodpecker Élagage also maintains provides garden maintenance services. Contact us to arrange an appointment by following the link below."
       url: "#https://gct-wdpkr.github.io/en/contact/"
       btn_label: "Contact info."
