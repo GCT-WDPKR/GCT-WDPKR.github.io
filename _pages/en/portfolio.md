@@ -3,6 +3,10 @@ title: "Portfolio"
 page_id: portfolio
 permalink: /portfolio/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header photo 2.jpg
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
