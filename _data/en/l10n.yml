@@ -8,7 +8,7 @@ splash:
   intro:
     - excerpt: "ADVICE, TREE FELLING AT THE BASE, CANOPY DISMANTLING, RETENTION SYSTEMS, CROWN THINNING, FRUIT TREE PRUNING, WOOD CHIPPING, LOG SPLITTING, AND GREEN WASTE DISPOSAL."
   feature_row:
-    - image_path: assets/images/misc/IMG_20230812_114854_001.jpg
+    - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
       alt: "EN placeholder image 1"
       title: "EN Placeholder 1"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -20,11 +20,11 @@ splash:
       url: "#test-link"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: /assets/images/misc/IMG_20230421_102729_686.jpg
+    - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
       title: "EN Placeholder 3"
       excerpt: "This is some sample content that goes here with **Markdown** formatting."
   feature_row2:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+    - image_path: /assets/images/taille sanitaire.jpg
       alt: "EN placeholder image 2"
       title: "EN Placeholder Image Left Aligned"
       excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -32,7 +32,7 @@ splash:
       btn_label: "Read More"
       btn_class: "btn--primary"
   feature_row3:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+    - image_path: /assets/images/taille haie.jpg
       alt: "EN placeholder image 2"
       title: "EN Placeholder Image Right Aligned"
       excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -40,7 +40,7 @@ splash:
       btn_label: "Read More"
       btn_class: "btn--primary"
   feature_row4:
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+    - image_path: /assets/images/fendeuse.jpg
       alt: "EN placeholder image 2"
       title: "EN Placeholder Image Center Aligned"
       excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
