@@ -11,7 +11,7 @@ excerpt: "If you have any queries, drop us an email and we'll be happy to help. 
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
-      ttitle: "Logsplitter"
+      title: "Logsplitter"
       excerpt: "Model Jansen HS-22A62, Petrol, Horizontal + Vertical, 22T, 62cm ; towable, with 22 tons of hydraulic pressure, the option of splitting horizontally for medium-sized logs, meaning less strain on the back, or vertically for larger logs, a cruciform wedge for considerable time savings"
 feature_row2:
     - image_path: /assets/images/Broyeur.jpg
@@ -83,9 +83,7 @@ Jet washing
 
 Green waste removal
 
-# Chipping 
-
-# Log splitting 
+# Equipment rental
 
 {% include feature_row id="feature_row1" type="left" %}
 
