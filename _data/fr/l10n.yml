@@ -10,40 +10,40 @@ splash:
   feature_row:
     - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
       alt: "Abattage par démontage"
-      title: "Abattage par Démontage"
-      excerpt: "Quand les contraintes autour oblige une approche plus délicate."
+      title: "Abattage par démontage"
+      excerpt: "Quand les contraintes autour nécéssitent une approche plus délicate."
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "Grand ou Petit"
       title: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       excerpt: "Fort de ses années d'expérience dans la gestion de grands arbres, Woodpecker Élagage est en mesure de réaliser les projets les plus difficiles."
       url: "https://gct-wdpkr.github.io/realisations/"
-      btn_label: "D'autres Réalisations"
+      btn_label: "D'autres réalisations"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
-      title: "Travail en Rétention"
+      title: "Travail en rétention"
       excerpt: "Lorsqu'il n'y a pas de place pour l'erreur, nous ne laissons rien au hasard. Faites confiance aux professionnels."
   feature_row2:
     - image_path: /assets/images/taille sanitaire.jpg
-      alt: "Voici une taille d'eclaircie"
-      title: "Voici une taille d'eclaircie"
-      excerpt: "Envie de voir d'autres tailles possibles ? Suivez le lien dessous."
+      alt: "Voici une taille d'éclaircie"
+      title: "Voici une taille d'éclaircie"
+      excerpt: "Envie de voir d'autres tailles possibles ? Suivez le lien ci-dessous."
       url: "https://gct-wdpkr.github.io/services/"
-      btn_label: "D'autres Services"
+      btn_label: "D'autres services"
       btn_class: "btn--primary"
   feature_row3:
     - image_path: /assets/images/taille haie.jpg
-      alt: "Taille d'Haie"
-      title: "Taille d'Haie"
-      excerpt: "Woodpecker Élagage, fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien dessous."
+      alt: "Entretien d'espaces verts - Taille de haies"
+      title: "Entretien d'espaces verts - Taille de haies"
+      excerpt: "Woodpecker Élagage fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien ci-dessous."
       url: "https://gct-wdpkr.github.io/contact/"
-      btn_label: "Contactez nous"
+      btn_label: "Contactez-nous"
       btn_class: "btn--primary"
   feature_row4:
     - image_path: /assets/images/fendeuse.jpg
-      alt: "Fendage du Bois"
-      title: "Fendage du Bois"
-      excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien dessous pour voir nos tarifs de location."
+      alt: "Fendage du bois"
+      title: "Fendage du bois"
+      excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien ci-dessous pour voir nos tarifs de location."
       url: "https://gct-wdpkr.github.io/services/"
-      btn_label: "Tarifs de loacation"
+      btn_label: "Tarifs de location"
       btn_class: "btn--primary"
