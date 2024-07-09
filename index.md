@@ -7,12 +7,12 @@ header:
 
 ---
 
-{% include site.data[site.active_lang].l10n.splash.feature_row id="intro" type="center" %}
+{% include splash_feature_row id="intro" type="center" %}
 
-{% include site.data[site.active_lang].l10n.splash.feature_row %}
+{% include splash_feature_row %}
 
-{% include site.data[site.active_lang].l10n.splash.feature_row id="feature_row2" type="left" %}
+{% include splash_feature_row id="feature_row2" type="left" %}
 
-{% include site.data[site.active_lang].l10n.splash.feature_row id="feature_row3" type="right" %}
+{% include splash_feature_row id="feature_row3" type="right" %}
 
-{% include site.data[site.active_lang].l10n.splash.feature_row id="feature_row4" type="center" %}
+{% include splash_feature_row id="feature_row4" type="center" %}
