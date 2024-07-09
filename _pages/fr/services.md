@@ -7,14 +7,15 @@ feature_row:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
       title: "Fendage"
-      excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; 
-Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
+      excerpt: |
+Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ;
+Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable
     - image_path: /assets/images/Broyeur.jpg
       alt: "Broyeur"
       title: "Broyage"
       excerpt: "Modèle Jansen, Essence, GTS-2000 pro ; capable a broyer des branches jusqu’à 10cm de diamètre, compact et remorquable permet un déplacement facile"
     - image_path: /assets/images/Remorque.jpg
-    alt: "Remorque"
+      alt: "Remorque"
       title: "Remorque"
       excerpt: " Modèle Lider benne hydraulique avec rehaussement grillagé PTAC 750kg, dim. L=253cm, W=147cm"
 ---
