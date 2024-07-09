@@ -123,16 +123,16 @@ gallery_four:
 
 **Abattage par Démontage**
 
-{% Voici un exemple d'**abattage par démontage** de deux bouleaux." %}
+{% include gallery id="gallery_one" caption="Voici un exemple d'**abattage par démontage** de deux bouleaux." %}
 
 **Travail en Rétention**
 
-{% Ici, les dégâts causés par la **tempête** ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé **en rétention**." %}
+{% include gallery id="gallery_two" caption="Ici, les dégâts causés par la **tempête** ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé **en rétention**." %}
 
 **Plusieurs démontages et un réhaussement de couronne**
 
-{% Plusieurs **démontages** et un **réhaussement** de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'**abattage par démontage**." %}
+{% include gallery id="gallery_three" caption="Plusieurs **démontages** et un **réhaussement** de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'**abattage par démontage**." %}
 
 **Plusieurs tailles pour une ensemble harmonieux**
 
-{% Encore la **tempête**, et les dégâts ont entraîné l'**abattage** d'un des pins sylvestres et un **taille sanitaire** de l'autre, ainsi que du chêne. Un forte **réduction** d'hauteur du noisetier et l'**éclaircissement** du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux." %}
+{% include gallery id="gallery_four" caption="Encore la **tempête**, et les dégâts ont entraîné l'**abattage** d'un des pins sylvestres et un **taille sanitaire** de l'autre, ainsi que du chêne. Un forte **réduction** d'hauteur du noisetier et l'**éclaircissement** du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux." %}
