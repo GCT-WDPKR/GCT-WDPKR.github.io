@@ -20,6 +20,14 @@ feature_row3:
       excerpt: " Modèle Lider benne hydraulique avec rehaussement grillagé PTAC 750kg, dim. L=253cm, W=147cm"
 ---
 
+#### Table des matières
+
+- [Taille](#Taille)
+- [Abattage](#Abattage)
+- [Entretien de jardin](#Entretien%20de%20jardin)
+- [Location de materiel](#Location%20de%20materiel)
+- [Tarifs](#Tarifs)
+
 # Taille
 
 Taille Sanitaire 
@@ -77,4 +85,9 @@ Karcher
 
 {% include feature_row id="feature_row3" type="left" %}
 
+# Tarifs
 
+|| Service      || Description || Price ||
+| ----------- | ----------- | ----------- |
+| Header      | Title | £1000 |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | £30000 |
