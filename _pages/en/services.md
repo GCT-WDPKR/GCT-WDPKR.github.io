@@ -10,18 +10,18 @@ header:
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
-      ttitle: "Fendage"
-      excerpt: "Modèle Jansen HS-22A62, Essence, Horizontale + Verticale, 22T, 62cm ; Remorquable, puissance inarretable, option de fendre à l’horizontale pour des bûches de taille moyenne qui permet de moins se baser le dos, ou a la verticale pour des bûches de plus gros diamètre, coin en cruciforme pour une gaine temps considérable"
+      ttitle: "Logsplitter"
+      excerpt: "Model Jansen HS-22A62, Petrol, Horizontal + Vertical, 22T, 62cm ; towable, with 22 tons of hydraulic pressure, the option of splitting horizontally for medium-sized logs, meaning less strain on the back, or vertically for larger logs, a cruciform wedge for considerable time savings"
 feature_row2:
     - image_path: /assets/images/Broyeur.jpg
       alt: "Broyeur"
-      title: "Broyage"
-      excerpt: "Modèle Jansen, Essence, GTS-2000 pro ; capable a broyer des branches jusqu’à 10cm de diamètre, compact et remorquable permet un déplacement facile"
+      title: "Chipper"
+      excerpt: "Model Jansen GTS-2000 pro, capable of shredding branches up to 10cm in diameter, compact and towable for ease of transport."
 feature_row3:
     - image_path: /assets/images/Remorque.jpg
       alt: "Remorque"
-      title: "Remorque"
-      excerpt: " Modèle Lider benne hydraulique avec rehaussement grillagé PTAC 750kg, dim. L=253cm, W=147cm"
+      title: "Trailer"
+      excerpt: "Model Lider hydraulic tipper PTAC 750kg, dim. L=253cm, W=147cm"
 ---
 
 #### Table of Contents
@@ -94,7 +94,8 @@ Green waste removal
 
 # Prices
 
-| Service      | Description | Price |
-| ----------- | ----------- | ----------- |
-| Header      | Title | £1000 |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | £30000 |
+| Equipment | Half-day | Day | Deposit |
+| :----------- | :-----------: | :-----------: | :-----------: |
+| Chipper |70 €|120 €|400 €| 
+| Logsplitter |55 €|100 €|400 €|
+| Trailer |35 €|60 €|400 €|
