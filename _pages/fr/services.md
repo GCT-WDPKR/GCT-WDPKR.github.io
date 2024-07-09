@@ -91,7 +91,8 @@ Karcher
 
 # Tarifs
 
-| Service      | Description | Price |
-| ----------- | ----------- | ----------- |
-| Header      | Title | £1000 |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> | £30000 |
+| Matériel | Demi-journée | Journée | Caution |
+| ----------- | ----------- | ----------- | ----------- |
+| Broyeur | 70 € | 120 € | 400 € | 
+| Fendeuse | 55 € | 100 € | 400 € |
+| Remorque | 35 € | 60 € | 400 € |
