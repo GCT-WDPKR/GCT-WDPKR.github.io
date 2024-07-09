@@ -17,7 +17,7 @@ splash:
       alt: "Grand ou Petit"
       title: "Grand ou petit"
       excerpt: "Un service propre et précis n'importe la taille de l'arbre."
-      url: "#https://gct-wdpkr.github.io/realisations/"
+      url: "https://gct-wdpkr.github.io/realisations/"
       btn_label: "D'autres Réalisations"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
@@ -27,23 +27,23 @@ splash:
     - image_path: /assets/images/taille sanitaire.jpg
       alt: "Voici une taille d'eclaircie"
       title: "Voici une taille d'eclaircie"
-      excerpt: 'Envie de voir d'autres tailles possibles ? Suivez le lien dessous."`'
-      url: "#https://gct-wdpkr.github.io/services/"
+      excerpt: "Envie de voir d'autres tailles possibles ? Suivez le lien dessous."
+      url: "https://gct-wdpkr.github.io/services/"
       btn_label: "D'autres Services"
       btn_class: "btn--primary"
   feature_row3:
     - image_path: /assets/images/taille haie.jpg
       alt: "Taille d'Haie"
       title: "Taille d'Haie"
-      excerpt: 'Woodpecker Élagage, fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien dessous."`'
-      url: "#https://gct-wdpkr.github.io/contact/"
+      excerpt: "Woodpecker Élagage, fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien dessous."
+      url: "https://gct-wdpkr.github.io/contact/"
       btn_label: "Contactez nous"
       btn_class: "btn--primary"
   feature_row4:
     - image_path: /assets/images/fendeuse.jpg
       alt: "Fendage du Bois"
       title: "Fendage du Bois"
-      excerpt: 'Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien dessous pour voir nos tarifs de location."`'
-      url: "#https://gct-wdpkr.github.io/services/"
+      excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien dessous pour voir nos tarifs de location."
+      url: "https://gct-wdpkr.github.io/services/"
       btn_label: "Tarifs de loacation"
       btn_class: "btn--primary"
