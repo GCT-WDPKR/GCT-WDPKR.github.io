@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header photo 2.jpg
+  overlay_image: /assets/images/header photo 3.jpg
 feature_row1:
     - image_path: /assets/images/fendeuse.jpg
       alt: "fendeuse"
