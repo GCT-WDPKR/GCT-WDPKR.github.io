@@ -2,7 +2,7 @@ lang_name: "English"
 splash:
   title: "Woodpecker Élagage"
   excerpt: |
-    Climbing Arborist & Tree Care Company. Certified and insured for all tree care and garden maintenance operations. 
+    Climbing arborist & tree care company. Certified and insured for all tree care and garden maintenance operations. 
 
     FREE CONSULTATION AND QUOTE.
   intro:
@@ -26,7 +26,7 @@ splash:
   feature_row2:
     - image_path: /assets/images/taille sanitaire.jpg
       alt: "EN placeholder image 2"
-      title: "An example of Crown Thinning"
+      title: "An example of crown thinning"
       excerpt: "Want to see different types of prunning? Follow the link below."
       url: "#https://gct-wdpkr.github.io/en/services/"
       btn_label: "Services available"
@@ -34,8 +34,8 @@ splash:
   feature_row3:
     - image_path: /assets/images/taille haie.jpg
       alt: "EN placeholder image 2"
-      title: "Garden Maintenance - Hedgecutting"
-      excerpt: "Woodpecker Élagage also maintains provides garden maintenance services. Contact us to arrange an appointment by following the link below."
+      title: "Garden maintenance - Hedge cutting"
+      excerpt: "Woodpecker Élagage also provides garden maintenance services. Contact us to arrange an appointment by following the link below."
       url: "#https://gct-wdpkr.github.io/en/contact/"
       btn_label: "Contact info."
       btn_class: "btn--primary"
@@ -43,7 +43,7 @@ splash:
     - image_path: /assets/images/fendeuse.jpg
       alt: "EN placeholder image 2"
       title: "Logsplitting"
-      excerpt: "With 22 tonnes of power, nothing can stand up to our beast of a splitter. Follow the link below to discover our rental prices."
+      excerpt: "With 22 tonnes of power, nothing can stand up to our beast of a splitter. Follow the link below to find out our rental prices."
       url: "#https://gct-wdpkr.github.io/en/services/"
       btn_label: "Rental prices"
       btn_class: "btn--primary"
