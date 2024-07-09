@@ -1,5 +1,5 @@
 ---
-title: "Realisations"
+title: "Réalisations"
 page_id: portfolio
 permalink: /realisations/
 author_profile: true
@@ -13,19 +13,19 @@ excerpt: "Voir quelques-uns de nos travaux précédents"
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
-    alt: "aberttage part demontage image 1"
+    alt: "abattage par démontage image 1"
     title: "Image 1 title caption"
   - url: /assets/images/realisation/aberttage-part-demontage/image-2.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-2.jpg
-    alt: "aberttage part demontage image 2"
+    alt: "abattage par démontage image 2"
     title: "Image 2 title caption"
   - url: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
-    alt: "aberttage part demontage image 3"
+    alt: "abattage par démontage image 3"
     title: "Image 3 title caption"
   - url: /assets/images/realisation/aberttage-part-demontage/image-4.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-4.jpg
-    alt: "aberttage part demontage image 4"
+    alt: "abattage par démontage image 4"
     title: "Image 4 title caption"
 gallery_two:
   - url: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0009.jpg
@@ -128,18 +128,18 @@ gallery_four:
     title: "Image 2 title caption"
 ---
 
-**Abattage par Démontage**
+**Abattage par démontage**
 
-{% include gallery id="gallery_one" caption="Voici un exemple d'*abattage par démontage* de deux bouleaux." %}
+{% include gallery id="gallery_one" caption="Voici un exemple d'abattage par démontage de deux bouleaux." %}
 
-**Travail en Rétention**
+**Travail en rétention**
 
-{% include gallery id="gallery_two" caption="Ici, les dégâts causés par la *tempête* ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimé *en rétention*." %}
+{% include gallery id="gallery_two" caption="Ici, les dégâts causés par la tempête ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimée en rétention." %}
 
 **Plusieurs démontages et un réhaussement de couronne**
 
-{% include gallery id="gallery_three" caption="Plusieurs *démontages* et un *réhaussement* de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'*abattage par démontage*." %}
+{% include gallery id="gallery_three" caption="Plusieurs démontages et un réhaussement de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'abattage par démontage." %}
 
-**Plusieurs tailles pour une ensemble harmonieux**
+**Plusieurs tailles pour un ensemble harmonieux**
 
-{% include gallery id="gallery_four" caption="Encore la *tempête*, et les dégâts ont entraîné l'*abattage* d'un des pins sylvestres et un *taille sanitaire* de l'autre, ainsi que du chêne. Un forte *réduction* d'hauteur du noisetier et l'*éclaircissement* du pommier au strate arbustive ont permis de rendre le jardin plus en sécurité, plus lumineux et plus harmonieux." %}
+{% include gallery id="gallery_four" caption="Encore la tempête : les dégâts ont entraîné l'abattage d'un des pins sylvestre et une taille sanitaire de l'autre, ainsi que du chêne. Une forte réduction de hauteur du noisetier et l'éclaircissement du pommier à la strate arbustive ont permis de sécuriser le jardin, et le rendre plus lumineux et plus harmonieux." %}
