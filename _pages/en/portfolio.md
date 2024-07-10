@@ -130,13 +130,19 @@ gallery_four:
 
 {% include gallery id="gallery_one" caption="This is an example of two birch trees being *freefall section felled*." %}
 
+---
+
 **Rigged limb removal**
 
 {% include gallery id="gallery_two" caption="Here, we have storm damage causing a large limb failure on this beautiful Monterrey Pine in the middle of Cholet. With a stone wall, road, telephone and electrical lines nearby the limb needed to be *rigged* down." %}
 
+---
+
 **Crown lift & multiple freefall section felling**
 
 {% include gallery id="gallery_three" caption="Multiple takedowns and a *crown lift* for this farm renovation project. Buildings and telephone lines close by necessitated *freefall section felling*." %}
+
+---
 
 **Serveral types of prunning and the felling of a hazrdous tree** 
 
