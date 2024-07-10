@@ -12,16 +12,16 @@ excerpt: "Meet Woodpecker Élagage"
 gallery:
   - url: /assets/images/vert-dhorizon/training-day/20220513_094140.jpg
     image_path: assets/images/vert-dhorizon/training-day/20220513_094140.jpg
-    alt: "Training Day Image 1"
-    title: "Training Day Image 1"
+    alt: "SRT Training Day Image 1"
+    title: "SRT Training Day Image 1"
   - url: /assets/images/vert-dhorizon/training-day/20220513_094158.jpg
     image_path: assets/images/vert-dhorizon/training-day/20220513_094158.jpg
-    alt: "Training Day Image 2"
-    title: "Training Day Image 2"
+    alt: "SRT Training Day Image 2"
+    title: "SRT Training Day Image 2"
   - url: /assets/images/vert-dhorizon/training-day/20220513_102931.jpg
     image_path: assets/images/vert-dhorizon/training-day/20220513_102931.jpg
-    alt: "Training Day Image 3"
-    title: "Training Day Image 3"
+    alt: "SRT Training Day Image 3"
+    title: "SRT Training Day Image 3"
 ---
 
 Woodpecker Élagage specializes in comprehensive tree care services tailored to your needs. Led by Geraint, our founder, a certified climbing arborist with years of experience, we are dedicated to delivering expert tree care while prioritizing safety and environmental responsibility.
@@ -34,18 +34,27 @@ After five years of working as a chef worldwide, the need to be outdoors with re
 
 After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his new colleagues at Vert d'Horizon. He gained a wealth of experience using various sophisticated rigging systems to tackle even the most challenging jobs. Having a more recent qualification, Geraint introduced new techniques to his colleagues, namely Static Rope Technique (SRT). Samuel DURAND, being the considerate and progressive-minded boss at Vert d'Horizon, organised a slot in the calendar for the whole team to be initiated in SRT, led by Geraint. The day was a great success! 
 
-
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
 
-Click here to see an article detailing the day…  [Link to article](https://vertdhorizon.fr/gazette/formation-srt/)
+Click below to see an article detailing the day…  
 
-Relocating to Quistinic spawned an ideal opportunity to venture into entreprise. Woodpecker Élagage was founded in October 2023, offering tree pruning, felling, and garden maintenance services. If you’re looking for competent honest advice and professional efficient service, look no further, contact us here. https://gct-wdpkr.github.io/en/contact/
+[Link to article](https://vertdhorizon.fr/gazette/formation-srt)
 
-Discover our services
+{% include gallery id="gallery" caption="Photos from the training day" %}
 
-Explore the range of services offered by Woodpecker Élagage by visiting the link below. [Services Page](https://gct-wdpkr.github.io/services/)
+Relocating to Quistinic spawned an ideal opportunity to venture into entreprise. Woodpecker Élagage was founded in October 2023, offering tree pruning, felling, and garden maintenance services. If you’re looking for competent honest advice and professional efficient service, look no further, click the link below to find our details. 
 
-View our work 
+[Contact page](/https://gct-wdpkr.github.io/en/contact/)
 
-To see examples of projects completed by Woodpecker Élagage, click the link below. [Portfolio Page](https://gct-wdpkr.github.io/en/portfolio/)
+**Discover our services**
+
+Explore the range of services offered by Woodpecker Élagage by visiting the link below. 
+
+[Services Page](/https://gct-wdpkr.github.io/services/)
+
+**View our work**
+
+To see examples of projects completed by Woodpecker Élagage, click the link below. 
+
+[Portfolio Page](/https://gct-wdpkr.github.io/en/portfolio/)
