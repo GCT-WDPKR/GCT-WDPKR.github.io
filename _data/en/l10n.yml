@@ -9,12 +9,12 @@ splash:
     - excerpt: "ADVICE, TREE FELLING AT THE BASE, CANOPY DISMANTLING, RETENTION SYSTEMS, CROWN THINNING, FRUIT TREE PRUNING, WOOD CHIPPING, GARDEN MAINTENANCE, LOG SPLITTING, AND GREEN WASTE DISPOSAL."
   feature_row:
     - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
-      alt: "EN placeholder image 1"
+      alt: "Section felling"
       title: "Section felling"
       excerpt: "When the surrounding constraints necessitate a more delicate approach."
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-      alt: "EN placeholder image 2"
+      alt: "Clean, precise work, whatever the size of the tree"
       title: "Clean, precise work, whatever the size of the tree"
       excerpt: "With years of experience handling big complex trees, Woodpecker Élagage can carry out even the most challenging of projects."
       url: "#https://gct-wdpkr.github.io/en/portfolio/"
@@ -25,7 +25,7 @@ splash:
       excerpt: "When there's no room for error, we leave nothing to chance. Put your trust in professionals."
   feature_row2:
     - image_path: /assets/images/taille sanitaire.jpg
-      alt: "EN placeholder image 2"
+      alt: "An example of crown thinning"
       title: "An example of crown thinning"
       excerpt: "Want to see different types of prunning? Follow the link below."
       url: "#https://gct-wdpkr.github.io/en/services/"
@@ -33,7 +33,7 @@ splash:
       btn_class: "btn--primary"
   feature_row3:
     - image_path: /assets/images/taille haie.jpg
-      alt: "EN placeholder image 2"
+      alt: "Garden maintenance - Hedge cutting"
       title: "Garden maintenance - Hedge cutting"
       excerpt: "Woodpecker Élagage also provides garden maintenance services. Contact us to arrange an appointment by following the link below."
       url: "#https://gct-wdpkr.github.io/en/contact/"
@@ -41,7 +41,7 @@ splash:
       btn_class: "btn--primary"
   feature_row4:
     - image_path: /assets/images/fendeuse.jpg
-      alt: "EN placeholder image 2"
+      alt: "Logsplitting"
       title: "Logsplitting"
       excerpt: "With 22 tonnes of power, nothing can stand up to our beast of a splitter. Follow the link below to find out our rental prices."
       url: "#https://gct-wdpkr.github.io/en/services/"
