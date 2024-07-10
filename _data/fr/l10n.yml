@@ -2,8 +2,7 @@ lang_name: "Français"
 splash:
   title: "Woodpecker Élagage"
   excerpt: |
-    Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.
-
+    Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.//
     ! DEVIS GRATUIT !
   intro:
     - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ÉSPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
@@ -14,7 +13,7 @@ splash:
       excerpt: "Quand les contraintes autour nécéssitent une approche plus délicate."
     - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-      alt: "Grand ou Petit"
+      alt: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       title: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       excerpt: "Fort de ses années d'expérience dans la gestion de grands arbres, Woodpecker Élagage est en mesure de réaliser les projets les plus difficiles."
       url: "https://gct-wdpkr.github.io/realisations/"
