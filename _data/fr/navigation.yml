@@ -4,7 +4,7 @@ main:
     url: /l-entreprise/
   # - title: Publications
   #   url: /publications/
-  - title: Realisations
+  - title: Réalisations
     url: /realisations/
   - title: Services
     url: /services
