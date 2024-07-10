@@ -132,13 +132,19 @@ gallery_four:
 
 {% include gallery id="gallery_one" caption="Voici un exemple d'abattage par démontage de deux bouleaux." %}
 
+---
+
 **Travail en rétention**
 
 {% include gallery id="gallery_two" caption="Ici, les dégâts causés par la tempête ont entraîné la chute d'une grosse charpente sur ce magnifique pin de Monterrey au milieu de Cholet. Avec un mur de pierre, une route, des lignes téléphoniques et électriques à proximité, la branche a dû être supprimée en rétention." %}
 
+---
+
 **Plusieurs démontages et un réhaussement de couronne**
 
 {% include gallery id="gallery_three" caption="Plusieurs démontages et un réhaussement de couronne pour ce projet de rénovation. Les bâtiments et les lignes téléphoniques situés à proximité ont nécessité l'abattage par démontage." %}
+
+---
 
 **Plusieurs tailles pour un ensemble harmonieux**
 
