@@ -2,8 +2,8 @@ lang_name: "Français"
 splash:
   title: "Woodpecker Élagage"
   excerpt: |
-    Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.//
-    ! DEVIS GRATUIT !
+    Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.\\
+    DEVIS GRATUIT.
   intro:
     - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ÉSPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
