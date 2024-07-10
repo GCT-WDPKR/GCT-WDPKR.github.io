@@ -58,3 +58,8 @@ li.masthead__menu-item > a.fr {
 //   pointer-events: none;
 //   text-decoration: underline;
 // }
+
+// Revert figcaption font to site default.
+figcaption {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+}
