@@ -59,6 +59,11 @@ li.masthead__menu-item > a.fr {
 //   text-decoration: underline;
 // }
 
+// Add padding to headers so that anchor links scroll correctly, avoiding the sticky header.
+h1 {
+  padding-top: 90px;
+}
+
 // Revert figcaption font to site default.
 figcaption {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
