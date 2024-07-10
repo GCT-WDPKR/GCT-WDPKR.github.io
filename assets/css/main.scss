@@ -68,3 +68,8 @@ h1 {
 figcaption {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
+
+figure > a.image-popup > img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
