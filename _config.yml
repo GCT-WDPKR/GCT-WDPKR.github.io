@@ -33,6 +33,8 @@ minimal_mistakes_skin: dark # default
 repository: GCT-WDPKR/GCT-WDPKR.github.io
 include:
   - _pages
+atom_feed:
+  hide: true
 
 ## Plugins (previously gems:)
 plugins:
