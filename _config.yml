@@ -13,7 +13,7 @@ url: https://gct-wdpkr.github.io
 baseurl: ""
 logo: /assets/images/blue border no background logo.png
 email: wdpecker.elagage@gmail.com
-locale: fr
+locale: fr-FR
 description: >- # this means to ignore newlines until "baseurl:"
   Entreprise d'arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d'élagage et entretien des espaces verts. DEVIS GRATUIT.
 search: true
@@ -83,12 +83,12 @@ defaults:
       path: _posts/en
     values:
       lang: en
-      locale: en
+      locale: en-GB
   - scope:
       path: _posts/fr
     values:
       lang: fr
-      locale: fr
+      locale: fr-FR
   # _pages
   - scope:
       path: _pages
@@ -100,12 +100,12 @@ defaults:
       path: _pages/en
     values:
       lang: en
-      locale: en
+      locale: en-GB
   - scope:
       path: _pages/fr
     values:
       lang: fr
-      locale: fr
+      locale: fr-FR
 category_archive:
   type: liquid
   path: /categories/
