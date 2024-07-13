@@ -118,9 +118,9 @@ author:
     en: 'Certified "Climbing Arborist", creator, and boss of Woodpecker Élagage.'
     fr: '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'
   links:
-    - label: Website
-      icon: fas fa-fw fa-link
-      url: https://gct-wdpkr.github.io/
+    # - label: Website
+    #   icon: fas fa-fw fa-link
+    #   url: https://gct-wdpkr.github.io/
     - label: Facebook
       icon: fab fa-fw fa-facebook
       url: https://www.facebook.com/woodpecker.elagage
