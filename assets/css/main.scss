@@ -42,8 +42,13 @@ $primary-color: #5ADBE4;
     transform: scale(4);
     top: 3rem;
     left: -8em;
-    border: 1px solid #252a34;
+    // border: 1px solid #252a34;
+    // border-radius: 50%;
+    border: 2px solid transparent;
     border-radius: 50%;
+    background: linear-gradient(110deg, white, white), linear-gradient(120deg, #5DE0E6, #004AAD);
+    background-clip: padding-box, border-box;
+    background-origin: padding-box, border-box;
   }
 }
 
