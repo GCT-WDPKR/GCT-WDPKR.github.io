@@ -39,22 +39,26 @@ After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his n
 
 Click below to see an article detailing the day…  
 
-[Link to article](https://vertdhorizon.fr/gazette/formation-srt)
+<!-- [Link to article](https://vertdhorizon.fr/gazette/formation-srt) -->
+<p><a href="https://vertdhorizon.fr/gazette/formation-srt" class="btn btn--primary">Link to article</a></p>
 
 {% include gallery id="gallery" caption="Photos from the training day" %}
 
 Relocating to Quistinic spawned an ideal opportunity to venture into entreprise. Woodpecker Élagage was founded in October 2023, offering tree pruning, felling, and garden maintenance services. If you’re looking for competent honest advice and professional efficient service, look no further, click the link below to find our details. 
 
-[Contact page](/https://gct-wdpkr.github.io/en/contact/)
+<!-- [Contact page](/https://gct-wdpkr.github.io/en/contact/) -->
+<p><a href="https://gct-wdpkr.github.io/en/contact/" class="btn btn--primary">Contact page</a></p>
 
 **Discover our services**
 
 Explore the range of services offered by Woodpecker Élagage by visiting the link below. 
 
-[Services Page](/https://gct-wdpkr.github.io/services/)
+<!-- [Services Page](/https://gct-wdpkr.github.io/services/) -->
+<p><a href="https://gct-wdpkr.github.io/services/" class="btn btn--primary">Services Page</a></p>
 
 **View our work**
 
 To see examples of projects completed by Woodpecker Élagage, click the link below. 
 
-[Portfolio Page](/https://gct-wdpkr.github.io/en/portfolio/)
+<!-- [Portfolio Page](/https://gct-wdpkr.github.io/en/portfolio/) -->
+<p><a href="https://gct-wdpkr.github.io/en/portfolio/" class="btn btn--primary">Portfolio Page</a></p>
