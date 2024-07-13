@@ -42,7 +42,7 @@ splash:
     - image_path: /assets/images/fendeuse.jpg
       alt: "Logsplitting"
       title: "Logsplitting"
-      excerpt: "With 22 tonnes of power, nothing can stand up to our beast of a splitter. Follow the link below to find out our rental prices."
+      excerpt: "With 22 tonnes of power, nothing can stand up to our log splitter. Follow the link below to find out our rental prices."
       url: "#https://gct-wdpkr.github.io/en/services/"
       btn_label: "Rental prices"
       btn_class: "btn--primary"
