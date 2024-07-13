@@ -5,7 +5,7 @@ splash:
     Entreprise d’arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d’élagage et entretien des espaces verts.\\
     DEVIS GRATUIT.
   intro:
-    - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ÉSPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
+    - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ESPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
     - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
       alt: "Abattage par démontage"
@@ -42,7 +42,7 @@ splash:
     - image_path: /assets/images/fendeuse.jpg
       alt: "Fendage du bois"
       title: "Fendage du bois"
-      excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre bête de fendeuse. Suivez le lien ci-dessous pour voir nos tarifs de location."
+      excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre fendeuse. Suivez le lien ci-dessous pour voir nos tarifs de location."
       url: "https://gct-wdpkr.github.io/services/"
       btn_label: "Tarifs de location"
       btn_class: "btn--primary"
