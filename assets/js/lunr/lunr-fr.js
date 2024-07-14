@@ -39,7 +39,7 @@ $(document).ready(function() {
         })
       });
     resultdiv.empty();
-    resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.active_lang].results_found | default: "Result(s) found" }}</p>');
+    resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data[site.active_lang].l10n.search.results_found | default: "Result(s) found" }}</p>');
     for (var item in result) {
       var ref = result[item].ref;
       if(store[ref].teaser){
