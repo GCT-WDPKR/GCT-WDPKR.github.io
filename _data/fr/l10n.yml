@@ -2,7 +2,6 @@ lang_name: "Français"
 search:
   loading_label: "Chargement..."
   placeholder_text: "Entrez votre recherche..."
-  results_found: "Résultat(s) trouvé(s)"
 splash:
   title: "Woodpecker Élagage"
   excerpt: |

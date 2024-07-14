@@ -2,7 +2,6 @@ lang_name: "English"
 search:
   loading_label: "Loading..."
   placeholder_text: "Enter your search term..."
-  results_found: "Result(s) found"
 splash:
   title: "Woodpecker Élagage"
   excerpt: |
