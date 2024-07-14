@@ -16,7 +16,7 @@ splash:
       alt: "Clean, precise work, whatever the size of the tree"
       title: "Clean, precise work, whatever the size of the tree"
       excerpt: "With years of experience handling big complex trees, Woodpecker Élagage can carry out even the most challenging of projects."
-      url: "https://woodpecker-elegage.com/en/portfolio/"
+      url: "https://woodpecker-elagage.com/en/portfolio/"
       btn_label: "See more work here"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
@@ -27,7 +27,7 @@ splash:
       alt: "An example of crown thinning"
       title: "An example of crown thinning"
       excerpt: "Want to see different types of prunning? Follow the link below."
-      url: "https://woodpecker-elegage.com/en/services/"
+      url: "https://woodpecker-elagage.com/en/services/"
       btn_label: "Services available"
       btn_class: "btn--primary"
   feature_row3:
@@ -35,7 +35,7 @@ splash:
       alt: "Garden maintenance - Hedge cutting"
       title: "Garden maintenance - Hedge cutting"
       excerpt: "Woodpecker Élagage also provides garden maintenance services. Contact us to arrange an appointment by following the link below."
-      url: "https://woodpecker-elegage.com/en/contact/"
+      url: "https://woodpecker-elagage.com/en/contact/"
       btn_label: "Contact info."
       btn_class: "btn--primary"
   feature_row4:
@@ -43,6 +43,6 @@ splash:
       alt: "Logsplitting"
       title: "Logsplitting"
       excerpt: "With 22 tonnes of power, nothing can stand up to our log splitter. Follow the link below to find out our rental prices."
-      url: "https://woodpecker-elegage.com/en/services/"
+      url: "https://woodpecker-elagage.com/en/services/"
       btn_label: "Rental prices"
       btn_class: "btn--primary"

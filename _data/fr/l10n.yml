@@ -16,7 +16,7 @@ splash:
       alt: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       title: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       excerpt: "Fort de ses années d'expérience dans la gestion de grands arbres, Woodpecker Élagage est en mesure de réaliser les projets les plus difficiles."
-      url: "https://woodpecker-elegage.com/realisations/"
+      url: "https://woodpecker-elagage.com/realisations/"
       btn_label: "D'autres réalisations"
       btn_class: "btn--primary"
     - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
@@ -27,7 +27,7 @@ splash:
       alt: "Voici une taille d'éclaircie"
       title: "Voici une taille d'éclaircie"
       excerpt: "Envie de voir d'autres tailles possibles ? Suivez le lien ci-dessous."
-      url: "https://woodpecker-elegage.com/services/"
+      url: "https://woodpecker-elagage.com/services/"
       btn_label: "D'autres services"
       btn_class: "btn--primary"
   feature_row3:
@@ -35,7 +35,7 @@ splash:
       alt: "Entretien d'espaces verts - Taille de haies"
       title: "Entretien d'espaces verts - Taille de haies"
       excerpt: "Woodpecker Élagage fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien ci-dessous."
-      url: "https://woodpecker-elegage.com/contact/"
+      url: "https://woodpecker-elagage.com/contact/"
       btn_label: "Contactez-nous"
       btn_class: "btn--primary"
   feature_row4:
@@ -43,6 +43,6 @@ splash:
       alt: "Fendage du bois"
       title: "Fendage du bois"
       excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre fendeuse. Suivez le lien ci-dessous pour voir nos tarifs de location."
-      url: "https://woodpecker-elegage.com/services/"
+      url: "https://woodpecker-elagage.com/services/"
       btn_label: "Tarifs de location"
       btn_class: "btn--primary"
