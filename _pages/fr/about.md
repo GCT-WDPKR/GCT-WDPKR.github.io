@@ -39,26 +39,22 @@ Après d’avoir obtenu son diplôme d'arboriste chez Fodé Ouest, à Nantes, Ge
 
 Cliquez ci-dessous pour voir un article détaillant la journée... 
 
-<!-- [Lien vers l'article](https://vertdhorizon.fr/gazette/formation-srt) -->
 <p style="text-align: center"><a href="https://vertdhorizon.fr/gazette/formation-srt" class="btn btn--primary">Lien vers l'article</a></p>
 
 {% include gallery id="gallery" caption="Photos de la journée de SRT" %}
 
 Le déménagement à Quistinic a été l'occasion de se lancer dans l'aventure entrepreneuriale. Woodpecker Élagage a été fondé en octobre 2023, offrant des services d'élagage, d'abattage et d'entretien de jardins. Si vous recherchez des conseils honnêtes et compétents et un service professionnel efficace, ne cherchez pas plus loin, trouvez nos infos de contact en cliquant sur le lien ci-dessous. 
 
-<!-- [Page contact](/https://gct-wdpkr.github.io/contact/) -->
-<p style="text-align: center"><a href="https://gct-wdpkr.github.io/contact/" class="btn btn--primary">Page contact</a></p>
+<p style="text-align: center"><a href="https://woodpecker-elagage.com/contact/" class="btn btn--primary">Page contact</a></p>
 
 **Découvrez nos services**
 
 Explorez la gamme de services offerts par Woodpecker Élagage en visitant le lien ci-dessous.
 
-[Page Services](/https://gct-wdpkr.github.io/services/)
-<p style="text-align: center"><a href="https://gct-wdpkr.github.io/services/" class="btn btn--primary">Page Services</a></p>
+<p style="text-align: center"><a href="https://woodpecker-elagage.com/services/" class="btn btn--primary">Page Services</a></p>
 
 **Découvrez nos réalisations**
 
 Pour voir des exemples de projets réalisés par Woodpecker Élagage, cliquez sur le lien ci-dessous.
 
-[Page Réalisations](/https://gct-wdpkr.github.io/realisations/)
-<p style="text-align: center"><a href="https://gct-wdpkr.github.io/realisations/" class="btn btn--primary">Page Réalisations</a></p>
+<p style="text-align: center"><a href="https://woodpecker-elagage.com/realisations/" class="btn btn--primary">Page Réalisations</a></p>
