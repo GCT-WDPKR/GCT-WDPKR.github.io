@@ -26,7 +26,7 @@ gallery:
 
 Woodpecker Élagage specializes in comprehensive tree care services tailored to your needs. Led by Geraint, our founder, a certified climbing arborist with years of experience, we are dedicated to delivering expert tree care while prioritizing safety and environmental responsibility.
 
-Meet Geraint, our founder
+**Meet Geraint, our founder**
 
 <!-- Image that fills page content container by adding the .full class with: -->
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.jpg{: .full}
