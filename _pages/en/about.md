@@ -28,14 +28,17 @@ Woodpecker Élagage specializes in comprehensive tree care services tailored to 
 
 Meet Geraint, our founder
 
+<!-- Image that fills page content container by adding the .full class with: -->
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.jpg{: .full}
+
 From a young age, Geraint had always enjoyed the outdoors, trekking, climbing, and long walks through the woods with four-legged friends. Through his teens he worked alongside his mother, an award-winning garden designer with her own company in the suburbs of London, ‘Jayne Thomas Garden Design Limited’. 
 
 After five years of working as a chef worldwide, the need to be outdoors with regular working hours drove the decision to change careers. A couple of jobs ensued; working as a gardener, then a landscaper, before hearing about arborists. Climbing atop living giants, the thrill of a big felling, and a deeper understanding of the nature we rely on.
 
-After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his new colleagues at Vert d'Horizon. He gained a wealth of experience using various sophisticated rigging systems to tackle even the most challenging jobs. Having a more recent qualification, Geraint introduced new techniques to his colleagues, namely Static Rope Technique (SRT). Samuel DURAND, being the considerate and progressive-minded boss at Vert d'Horizon, organised a slot in the calendar for the whole team to be initiated in SRT, led by Geraint. The day was a great success! 
-
 <!-- Image that fills page content container by adding the .full class with: -->
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vert-dhorizon/lequipe.jpg){: .full}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/misc/IMG_20230812_114854_001.jpg{: .full}
+
+After becoming a qualified arborist at Fodé Ouest, Nantes, Geraint joined his new colleagues at Vert d'Horizon. He gained a wealth of experience using various sophisticated rigging systems to tackle even the most challenging jobs. Having a more recent qualification, Geraint introduced new techniques to his colleagues, namely Static Rope Technique (SRT). Samuel DURAND, being the considerate and progressive-minded boss at Vert d'Horizon, organised a slot in the calendar for the whole team to be initiated in SRT, led by Geraint. The day was a great success! 
 
 Click below to see an article detailing the day…  
 
