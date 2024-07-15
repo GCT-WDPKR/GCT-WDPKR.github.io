@@ -1,4 +1,5 @@
 lang_name: "English"
+follow_label: "Follow"
 search:
   loading_label: "Loading..."
   placeholder_text: "Enter your search term..."

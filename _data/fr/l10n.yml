@@ -1,4 +1,5 @@
 lang_name: "Français"
+follow_label: "Contact"
 search:
   loading_label: "Chargement..."
   placeholder_text: "Entrez votre recherche..."
