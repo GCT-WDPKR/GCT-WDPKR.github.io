@@ -29,7 +29,7 @@ Woodpecker Élagage se spécialise dans des services complets de soins aux arbre
 **Rencontrez Geraint, notre fondateur** 
 
 <!-- Image that fills page content container by adding the .full class with: -->
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.jpg{: .full}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.jpg){: .full}
 
 Depuis son plus jeune âge, Geraint a toujours aimé les activités de plein air, le trekking, l'escalade et les longues promenades dans les bois avec ses amis à quatre pattes. Pendant son adolescence, il a travaillé aux côtés de sa mère, une paysagiste primée qui possédait sa propre entreprise dans la banlieue de Londres, "Jayne Thomas Garden Design Limited". 
 
