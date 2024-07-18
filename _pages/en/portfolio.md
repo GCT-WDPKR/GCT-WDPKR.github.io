@@ -110,8 +110,8 @@ gallery_four:
     title: "Image 2 before shot of the whole area"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_091713_530.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_091713_530.jpg
-    alt: "Image 3 of open would and rot at the breaking point of the scots pine"
-    title: "Image 3 of open would and rot at the breaking point of the scots pine"
+    alt: "Image 3 of open wound and rot at the breaking point of the scots pine"
+    title: "Image 3 of open wound and rot at the breaking point of the scots pine"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_092104_030.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_092104_030.jpg
     alt: "Image 4 from above the limb suspended on the adjacent oak"
