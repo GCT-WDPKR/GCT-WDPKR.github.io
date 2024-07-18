@@ -81,3 +81,9 @@ figure > a.image-popup > img {
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+// Feature row images.
+.archive__item-teaser > img {
+  max-height: 450px;
+  width: auto;
+}
