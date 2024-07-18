@@ -102,7 +102,7 @@ gallery_three:
 gallery_four:
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
-    alt: "Image 1 storm damage to the scots pine, half on the crown suspended on the adjacent oak"
+    alt: "Image 1 storm damage to the scots pine, half of the crown suspended on the adjacent oak"
     title: "Image 1 storm damage to the scots pine"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_085508_587.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_085508_587.jpg
