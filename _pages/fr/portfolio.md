@@ -13,119 +13,119 @@ excerpt: "Voir quelques-uns de nos travaux précédents"
 gallery_one:
   - url: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-1.jpg
-    alt: "abattage par démontage image 1"
-    title: "Image 1 title caption"
+    alt: "Image 1 avant"
+    title: "Image 1 avant"
   - url: /assets/images/realisation/aberttage-part-demontage/image-2.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-2.jpg
-    alt: "abattage par démontage image 2"
-    title: "Image 2 title caption"
+    alt: "Image 2 après l'ébranchage"
+    title: "Image 2 après l'ébranchage"
   - url: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
-    alt: "abattage par démontage image 3"
-    title: "Image 3 title caption"
+    alt: "Image 3 après l'abattage"
+    title: "Image 3 après l'abattage"
   - url: /assets/images/realisation/aberttage-part-demontage/image-4.jpg
     image_path: /assets/images/realisation/aberttage-part-demontage/image-4.jpg
-    alt: "abattage par démontage image 4"
-    title: "Image 4 title caption"
+    alt: "Image 4 après l'abattage, un autre angle"
+    title: "Image 4 après l'abattage, un autre angle"
 gallery_two:
   - url: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0009.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0009.jpg
-    alt: "rigged limb removal image 1"
-    title: "Image 1 title caption"
+    alt: "Image 1 Geraint installant le système de rétention"
+    title: "Image 1 Geraint installant le système de rétention"
   - url: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0010.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0010.jpg
-    alt: "rigged limb removal image 2"
-    title: "Image 2 title caption"
+    alt: "Image 2 prise après la première coupe"
+    title: "Image 2 prise après la première coupe"
   - url: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0012.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0012.jpg
-    alt: "rigged limb removal image 3"
-    title: "Image 3 title caption"
+    alt: "Image 3 première morceau descendu parterre en toute sécurité"
+    title: "Image 3 première morceau descendu parterre en toute sécurité"
   - url: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0013.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG-20231110-WA0013.jpg
-    alt: "rigged limb removal image 4"
-    title: "Image 4 title caption"
+    alt: "Image 4 grande section prête à être coupée et descendu en rétention"
+    title: "Image 4 grande section prête à être coupée et descendu en rétention"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_084214_975.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_084214_975.jpg
-    alt: "rigged limb removal image 1"
-    title: "Image 1 title caption"
+    alt: "Image 5 photo de l'avant"
+    title: "Image 5 photo de l'avant"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120241_443.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120241_443.jpg
-    alt: "rigged limb removal image 2"
-    title: "Image 2 title caption"
+    alt: "Image 6 photo de l'après"
+    title: "Image 6 photo de l'après"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120312_863.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120312_863.jpg
-    alt: "rigged limb removal image 3"
-    title: "Image 3 title caption"
+    alt: "Image 7 section différente de l'arbre avant"
+    title: "Image 7 section différente de l'arbre avant"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_141728_562.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_141728_562.jpg
-    alt: "rigged limb removal image 4"
-    title: "Image 4 title caption"
+    alt: "Image 8 installation du système de rétention depuis la canopée"
+    title: "Image 8 installation du système de rétention depuis la canopée"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_154814_989.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_154814_989.jpg
-    alt: "rigged limb removal image 4"
-    title: "Image 4 title caption"
+    alt: "Image 9 après de la deuxième section"
+    title: "Image 9 après de la deuxième section"
 gallery_three:
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_172926_931.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_172926_931.jpg
-    alt: "sectional felling freefall image 1"
-    title: "Image 1 title caption"
+    alt: "Image 1 avant des deux robiniers à côté du hangar"
+    title: "Image 1 avant des deux robiniers à côté du hangar"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173016_227.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173016_227.jpg
-    alt: "sectional felling freefall image 2"
-    title: "Image 2 title caption"
+    alt: "Image 2 vue d'avant du cyprès de l'autre côté du hangar"
+    title: "Image 2 vue d'avant du cyprès de l'autre côté du hangar"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173043_059.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173043_059.jpg
-    alt: "sectional felling freefall image 3"
-    title: "Image 3 title caption"
+    alt: "Image 3 deuxième image du cyprès avant, les branches s'appuient sur le toit"
+    title: "Image 3 deuxième image du cyprès avant, les branches s'appuient sur le toit"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173247_200.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231113_173247_200.jpg
-    alt: "sectional felling freefall image 4"
-    title: "Image 4 title caption"
+    alt: "Image 4 photo avant du cèdre"
+    title: "Image 4 photo avant du cèdre"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231128_105526_457.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231128_105526_457.jpg
-    alt: "sectional felling freefall image 1"
-    title: "Image 1 title caption"
+    alt: "Image 5 après l'enlèvement de la couronne du cèdre, prêt pour l'abattage"
+    title: "Image 5 après l'enlèvement de la couronne du cèdre, prêt pour l'abattage"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231129_112403_972.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231129_112403_972.jpg
-    alt: "sectional felling freefall image 2"
-    title: "Image 2 title caption"
+    alt: "Image 6 selfie de Geraint sur le toit du hangar"
+    title: "Image 6 selfie de Geraint sur le toit du hangar"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091917_061.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091917_061.jpg
-    alt: "sectional felling freefall image 3"
-    title: "Image 3 title caption"
+    alt: "Image 7 après l'abattage des deux robiniers"
+    title: "Image 7 après l'abattage des deux robiniers"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091950_089.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091950_089.jpg
-    alt: "sectional felling freefall image 4"
-    title: "Image 4 title caption"
+    alt: "Image 8 un autre angle des robiniers abattus"
+    title: "Image 8 un autre angle des robiniers abattus"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_092059_387.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_092059_387.jpg
-    alt: "sectional felling freefall image 4"
-    title: "Image 4 title caption"
+    alt: "Image 9 après le rehaussement de la couronne du cyprès"
+    title: "Image 9 après le rehaussement de la couronne du cyprès"
 gallery_four:
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
-    alt: "taille snitaire image 1"
-    title: "Image 1 title caption"
+    alt: "Image 1 dommages causés par la tempête au pin sylvestre, la moitié de la couronne perchée sur le chêne adjacent."
+    title: "Image 1 dommages causés par la tempête au pin sylvestre."
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_085508_587.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_085508_587.jpg
-    alt: "taille snitaire image 2"
-    title: "Image 2 title caption"
+    alt: "Image 2 avant de l'ensemble de la zone, sombre et délaissé"
+    title: "Image 2 avant de l'ensemble de la zone"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_091713_530.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_091713_530.jpg
-    alt: "taille snitaire image 3"
-    title: "Image 3 title caption"
+    alt: "Image 3 de plaie ouverte et de pourriture au point de rupture du pin sylvestre"
+    title: "Image 3 de plaie ouverte et de pourriture au point de rupture du pin sylvestre"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_092104_030.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_092104_030.jpg
-    alt: "taille snitaire image 4"
-    title: "Image 4 title caption"
+    alt: "Image 4 depuis le dessus de la branche perché au chêne adjacent"
+    title: "Image 4 depuis le dessus de la branche perché au chêne adjacent"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231121_162930_253.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231121_162930_253.jpg
-    alt: "taille snitaire image 1"
-    title: "Image 1 title caption"
+    alt: "Image 5 outils à côté du pin sylvestre abattu"
+    title: "Image 5 outils à côté du pin sylvestre abattu"
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231220_135401_309.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231220_135401_309.jpg
-    alt: "taille snitaire image 2"
-    title: "Image 2 title caption"
+    alt: "Image 6 photo après coup de l'ensemble de la zone, lumineuse, harmonieuse et sûre"
+    title: "Image 6 photo après coup de l'ensemble de la zone"
 ---
 
 **Abattage par démontage**
