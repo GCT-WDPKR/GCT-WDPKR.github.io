@@ -6,20 +6,20 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header photo 3.jpg
+  overlay_image: /assets/images/header photo 3.webp
 excerpt: "If you have any queries, drop us an email and we'll be happy to help. Our details can be found on the contact page."
 feature_row1:
-    - image_path: /assets/images/fendeuse.jpg
+    - image_path: /assets/images/fendeuse.webp
       alt: "fendeuse"
       title: "Logsplitter"
       excerpt: "Model Jansen HS-22A62, Petrol, Horizontal + Vertical, 22T, 62cm ; towable, with 22 tons of hydraulic pressure, the option of splitting horizontally for medium-sized logs, meaning less strain on the back, or vertically for larger logs, a cruciform wedge for considerable time savings"
 feature_row2:
-    - image_path: /assets/images/Broyeur.jpg
+    - image_path: /assets/images/Broyeur.webp
       alt: "Broyeur"
       title: "Chipper"
       excerpt: "Model Jansen GTS-2000 pro, capable of shredding branches up to 10cm in diameter, compact and towable for ease of transport."
 feature_row3:
-    - image_path: /assets/images/Remorque.jpg
+    - image_path: /assets/images/Remorque.webp
       alt: "Remorque"
       title: "Trailer"
       excerpt: "Model Lider hydraulic tipper PTAC 750kg, dim. L=253cm, W=147cm"

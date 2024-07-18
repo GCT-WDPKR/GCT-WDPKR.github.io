@@ -11,11 +11,11 @@ splash:
   intro:
     - excerpt: "CONSEIL, ABATTAGE, DÉMONTAGE, RÉTENTION, REMISE EN SÉCURITÉ, TAILLE D'ÉCLAIRCIE, FRUCTIFICATION, BROYAGE, ENTRETIEN D'ESPACES VERTS, FENDAGE, ET ÉVACUATION DES DÉCHETS"
   feature_row:
-    - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.jpg
+    - image_path: /assets/images/realisation/aberttage-part-demontage/image-3.webp
       alt: "Abattage par démontage"
       title: "Abattage par démontage"
       excerpt: "Quand les contraintes autour nécéssitent une approche plus délicate."
-    - image_path: /assets/images/misc/IMG_20220819_114418_5.jpg
+    - image_path: /assets/images/misc/IMG_20220819_114418_5.webp
       # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
       alt: "Un travail propre et précis, quelle que soit la taille de l'arbre"
       title: "Un travail propre et précis, quelle que soit la taille de l'arbre"
@@ -23,11 +23,11 @@ splash:
       url: "https://woodpecker-elagage.com/realisations/"
       btn_label: "D'autres réalisations"
       btn_class: "btn--primary"
-    - image_path: /assets/images/realisation/IMG_20240418_150428_814.jpg
+    - image_path: /assets/images/realisation/IMG_20240418_150428_814.webp
       title: "Travail en rétention"
       excerpt: "Lorsqu'il n'y a pas de place pour l'erreur, nous ne laissons rien au hasard. Faites confiance aux professionnels."
   feature_row2:
-    - image_path: /assets/images/taille sanitaire.jpg
+    - image_path: /assets/images/taille sanitaire.webp
       alt: "Voici une taille d'éclaircie"
       title: "Voici une taille d'éclaircie"
       excerpt: "Envie de voir d'autres tailles possibles ? Suivez le lien ci-dessous."
@@ -35,7 +35,7 @@ splash:
       btn_label: "D'autres services"
       btn_class: "btn--primary"
   feature_row3:
-    - image_path: /assets/images/taille haie.jpg
+    - image_path: /assets/images/taille haie.webp
       alt: "Entretien d'espaces verts - Taille de haies"
       title: "Entretien d'espaces verts - Taille de haies"
       excerpt: "Woodpecker Élagage fait aussi de l'entretien de vos espaces verts. Prenez contact avec nous pour organiser un rendez-vous en suivant le lien ci-dessous."
@@ -43,7 +43,7 @@ splash:
       btn_label: "Contactez-nous"
       btn_class: "btn--primary"
   feature_row4:
-    - image_path: /assets/images/fendeuse.jpg
+    - image_path: /assets/images/fendeuse.webp
       alt: "Fendage du bois"
       title: "Fendage du bois"
       excerpt: "Avec une puissance de 22 tonnes, rien ne résiste à notre fendeuse. Suivez le lien ci-dessous pour voir nos tarifs de location."

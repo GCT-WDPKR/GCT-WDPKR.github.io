@@ -11,7 +11,7 @@
 title: Woodpecker Élagage
 url: https://gct-wdpkr.github.io
 baseurl: ""
-logo: /assets/images/logo-blue-black-border.png
+logo: /assets/images/logo-blue-black-border.webp
 email: wdpecker.elagage@gmail.com
 locale: fr-FR
 description: >- # this means to ignore newlines until "baseurl:"
@@ -116,7 +116,7 @@ tag_archive:
 # Site customization
 author:
   name: Geraint Thomas
-  avatar: /assets/images/bio-photo.jpg
+  avatar: /assets/images/bio-photo.webp
   bio:
     en: 'Certified "Climbing Arborist", creator, and boss of Woodpecker Élagage.'
     fr: '"Arboriste Elagueur Grimpeur" certifié, createur, et patron de Woodpecker Élagage.'

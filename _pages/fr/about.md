@@ -3,23 +3,23 @@ title: "L'Entreprise"
 permalink: /l-entreprise/
 page_id: about
 header:
-  # image: /assets/images/stock/unsplash-forest.jpg
+  # image: /assets/images/stock/unsplash-forest.webp
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/stock/unsplash-forest.jpg
+  overlay_image: /assets/images/stock/unsplash-forest.webp
 excerpt: "À propos de Woodpecker Élagage"
 gallery:
-  - url: /assets/images/vert-dhorizon/training-day/20220513_094140.jpg
-    image_path: assets/images/vert-dhorizon/training-day/20220513_094140.jpg
+  - url: /assets/images/vert-dhorizon/training-day/20220513_094140.webp
+    image_path: assets/images/vert-dhorizon/training-day/20220513_094140.webp
     alt: "Journée de formation SRT 1"
     title: "Journée de formation SRT 1"
-  - url: /assets/images/vert-dhorizon/training-day/20220513_094158.jpg
-    image_path: assets/images/vert-dhorizon/training-day/20220513_094158.jpg
+  - url: /assets/images/vert-dhorizon/training-day/20220513_094158.webp
+    image_path: assets/images/vert-dhorizon/training-day/20220513_094158.webp
     alt: "Journée de formation SRT 2"
     title: "Journée de formation SRT 2"
-  - url: /assets/images/vert-dhorizon/training-day/20220513_102931.jpg
-    image_path: assets/images/vert-dhorizon/training-day/20220513_102931.jpg
+  - url: /assets/images/vert-dhorizon/training-day/20220513_102931.webp
+    image_path: assets/images/vert-dhorizon/training-day/20220513_102931.webp
     alt: "Journée de formation SRT 3"
     title: "Journée de formation SRT 3"
 ---
@@ -29,14 +29,14 @@ Woodpecker Élagage se spécialise dans des services complets de soins aux arbre
 **Rencontrez Geraint, notre fondateur** 
 
 <!-- Image that fills page content container by adding the .full class with: -->
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.jpg){: .full}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/me in a euca.webp){: .full}
 
 Depuis son plus jeune âge, Geraint a toujours aimé les activités de plein air, le trekking, l'escalade et les longues promenades dans les bois avec ses amis à quatre pattes. Pendant son adolescence, il a travaillé aux côtés de sa mère, une paysagiste primée qui possédait sa propre entreprise dans la banlieue de Londres, "Jayne Thomas Garden Design Limited". 
 
 Après avoir travaillé pendant cinq ans comme chef cuisinier dans le monde entier, le besoin d'être à l'extérieur avec des horaires de travail réguliers a motivé la décision de changer de carrière. Quelques emplois ont suivi : jardinier, puis ouvrier paysagiste, avant d'entendre parler des arboristes. Grimper au sommet de géants vivants, le frisson d'un gros abattage, et une compréhension plus profonde de la nature dont nous dépendons, que demander de plus !
 
 <!-- Image that fills page content container by adding the .full class with: -->
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/misc/IMG_20230812_114854_001.jpg){: .full}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/misc/IMG_20230812_114854_001.webp){: .full}
 
 Après d’avoir obtenu son diplôme d'arboriste chez Fodé Ouest, à Nantes, Geraint a rejoint ses nouveaux collègues chez Vert d'Horizon. Il y a acquis beaucoup d’expérience en utilisant une variété de systèmes de rétention sophistiqués pour s'attaquer aux travaux les plus difficiles. Ayant une qualification plus récente, Geraint a présenté de nouvelles techniques à ses collègues, notamment la Statique Rope Technique (SRT). Samuel DURAND, le patron attentionné et progressiste de Vert d'Horizon, a organisé un créneau dans le calendrier pour que toute l'équipe soit initiée à la SRT, sous la houlette de Geraint. La journée a été un franc succès!  
 

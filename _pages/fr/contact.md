@@ -4,11 +4,11 @@ page_id: contact
 permalink: /contact/
 author_profile: true
 header:
-  # image: /assets/images/header photo.jpg
+  # image: /assets/images/header photo.webp
   # caption: "Hêtre pourpre ou Fagus sylvatica Atropurpurea"
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header photo.jpg
+  overlay_image: /assets/images/header photo.webp
 excerpt: "Contactez-nous ... petite préférence pour les emails"
 ---
 
