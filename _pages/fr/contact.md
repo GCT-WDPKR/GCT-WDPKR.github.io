@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header photo.jpg
-excerpt: "Contactez-nous ... petit preference pour les emails"
+excerpt: "Contactez-nous ... petite préférence pour les emails"
 ---
 
 Email - wdpecker.elagage@gmail.com
