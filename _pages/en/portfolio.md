@@ -85,8 +85,8 @@ gallery_three:
     title: "Image 5 after crown removal of cedar, ready for felling"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231129_112403_972.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231129_112403_972.jpg
-    alt: "Image 6 selfie of Geraint dismantling branches on the roof of the hanger"
-    title: "Image 6 selfie of Geraint dismantling branches on the roof of the hanger"
+    alt: "Image 6 selfie of Geraint on the roof of the hanger"
+    title: "Image 6 selfie of Geraint on the roof of the hanger"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091917_061.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_091917_061.jpg
     alt: "Image 7 after felling of the two black locust trees"
@@ -97,8 +97,8 @@ gallery_three:
     title: "Image 8 another angle of the felled black locust trees"
   - url: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_092059_387.jpg
     image_path: /assets/images/realisation/sectional-felling-freefall/IMG_20231220_092059_387.jpg
-    alt: "Image 9 after shot of the crown lift to the cypress trees"
-    title: "Image 9 after shot of the crown lift to the cypress trees"
+    alt: "Image 9 after shot of the crown lift to the cypress tree"
+    title: "Image 9 after shot of the crown lift to the cypress tree"
 gallery_four:
   - url: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
     image_path: /assets/images/realisation/taille-sanitaire/IMG_20231120_085152_272.jpg
