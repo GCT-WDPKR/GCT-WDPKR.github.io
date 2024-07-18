@@ -44,11 +44,11 @@ gallery_two:
     title: "Image 4 large section ready to be cut and rigged down"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_084214_975.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_084214_975.jpg
-    alt: "rigged limb removal image 1"
+    alt: "Image 5 photo of before"
     title: "Image 5 photo of before"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120241_443.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120241_443.jpg
-    alt: "rigged limb removal image 2"
+    alt: "Image 6 photo of after"
     title: "Image 6 photo of after"
   - url: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120312_863.jpg
     image_path: /assets/images/realisation/rigged-limb-removal/IMG_20231110_120312_863.jpg
