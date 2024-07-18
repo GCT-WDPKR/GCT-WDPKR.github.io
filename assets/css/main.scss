@@ -42,13 +42,6 @@ $primary-color: #5ADBE4;
     transform: scale(4);
     top: 3rem;
     left: -8em;
-    // border: 1px solid #252a34;
-    // border-radius: 50%;
-    // border: 2px solid transparent;
-    // border-radius: 50%;
-    // background: linear-gradient(110deg, white, white), linear-gradient(120deg, #5DE0E6, #004AAD);
-    // background-clip: padding-box, border-box;
-    // background-origin: padding-box, border-box;
   }
 }
 
@@ -57,14 +50,6 @@ li.masthead__menu-item > a.en,
 li.masthead__menu-item > a.fr {
   text-transform: capitalize;
 }
-
-// No longer necessary as we only show the link to the other lang.
-// li.masthead__menu-item > a.en:lang(en),
-// li.masthead__menu-item > a.fr:lang(fr) {
-//   font-weight: bold;
-//   pointer-events: none;
-//   text-decoration: underline;
-// }
 
 // Add padding to headers so that anchor links scroll correctly, avoiding the sticky header.
 h1 {
