@@ -16,6 +16,12 @@ excerpt: "Contactez-nous ... petite préférence pour les emails"
 
 ---
 
+# Notre rayon d'action
+
+Quistinic -- Baud -- Bubry -- Languidic -- Pontivy -- Saint Barthélemy -- Plouay -- Locminé -- Pluvigner -- Lorient -- Hennebont -- Vannes -- Auray -- Saint Gildas de Rhuys -- Guémenér sur Scorff -- Le Faouët -- Plouray -- Loudéac -- Ploërmel -- Bignan -- Plumelec -- Grand Champs -- Plaudren -- Locqueltas -- Camors -- Landévant -- Landaul -- Riantec -- Étel -- Carnac -- Arradon -- Baden -- Crac'h -- Brech -- Inguiniel -- Guénin -- Rohan -- Josselin -- Ploërdut -- Cléguérec -- Noyal-Pontivy -- Réguiny -- Pluméliau-Bieuzy
+
+---
+
 Email - wdpecker.elagage@gmail.com
 
 Mobile - +33 6 26 79 47 73
