@@ -14,8 +14,6 @@ excerpt: "Contactez-nous ... petite préférence pour les emails"
 
 <iframe src="https://fm.addxt.com/form/?vf=1FAIpQLSeG8ecmD7nGBUpvTSqmiPiQL1NCDHTW-LVc78NFOAPaQtppIQ" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
----
-
 # Notre rayon d'action
 
 Quistinic -- Baud -- Bubry -- Languidic -- Pontivy -- Saint Barthélemy -- Plouay -- Locminé -- Pluvigner -- Lorient -- Hennebont -- Vannes -- Auray -- Saint Gildas de Rhuys -- Guémenér sur Scorff -- Le Faouët -- Plouray -- Loudéac -- Ploërmel -- Bignan -- Plumelec -- Grand Champs -- Plaudren -- Locqueltas -- Camors -- Landévant -- Landaul -- Riantec -- Étel -- Carnac -- Arradon -- Baden -- Crac'h -- Brech -- Inguiniel -- Guénin -- Rohan -- Josselin -- Ploërdut -- Cléguérec -- Noyal-Pontivy -- Réguiny -- Pluméliau-Bieuzy
