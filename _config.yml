@@ -16,7 +16,7 @@ email: wdpecker.elagage@gmail.com
 locale: fr-FR
 description: >- # this means to ignore newlines until "baseurl:"
   Entreprise d'arboriste-élagueur-grimpeur. Certifié et assuré pour tout travail d'élagage et entretien des espaces verts. DEVIS GRATUIT.
-search: true
+search: false
 
 ## Localization / i18n / Polyglot settings
 languages: ["en", "fr"]
